@@ -1,0 +1,16 @@
+id: fs-market-stack
+track: fullstack
+stage: 3
+order: 130
+title: Java、Spring 與 Vue
+subtitle: 把同一份 API 契約搬到 Java 與 Vue
+summary: 針對指定技術棧的職缺加練；用既有驗收案例取代重做整個作品。
+outcomes:
+  - 將筆記欄位寫成帶型別的資料結構
+  - 以 Web 層測試保住錯誤與成功案例
+  - 區分已移植功能與仍走舊服務的功能
+prereqs:
+  - fs-production
+roles:
+  - fullstack
+hours: 3

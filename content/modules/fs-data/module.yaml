@@ -1,0 +1,17 @@
+id: fs-data
+track: fullstack
+stage: 2
+order: 90
+title: 資料建模與 Prisma
+subtitle: 讓應用程式能安全改資料
+summary: 從單人測試走到並行寫入與可回復的結構變更。
+outcomes:
+  - 選出必填、唯一與外鍵約束
+  - 說明舊版應用何時仍能讀取
+  - 比較位移與游標分頁的穩定度
+prereqs:
+  - fs-api
+  - fd-sql
+roles:
+  - fullstack
+hours: 3.2

@@ -1,0 +1,17 @@
+id: fd-git
+track: foundations
+stage: 1
+order: 50
+title: Git 版本控制與協作
+subtitle: 版本紀錄與協作
+summary: 把一次修改整理成別人看得懂、自己也回得去的紀錄。
+outcomes:
+  - 比較修改前後的差異
+  - 畫出合併前後的提交關係
+  - 寫出含目的與驗證方式的變更說明
+prereqs:
+  - fd-cli
+roles:
+  - fullstack
+  - aiinfra
+hours: 5.6

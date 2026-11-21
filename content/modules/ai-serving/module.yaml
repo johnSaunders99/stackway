@@ -1,0 +1,19 @@
+id: ai-serving
+track: aiinfra
+stage: 3
+order: 80
+title: 大模型推論服務
+subtitle: 用量測經營推論服務
+summary: 固定工作負載再比較吞吐、尾端延遲與品質，不拿不同硬體硬比。
+outcomes:
+  - 固定模型版本、輸入長度、裝置與暖機條件
+  - 解釋草稿模型接受率如何影響收益
+  - 由排隊時間與服務時間分解超時
+prereqs:
+  - ai-llm
+  - ai-gpu
+  - ai-observe
+roles:
+  - aiinfra
+hours: 6.5
+project: proj-07-inference

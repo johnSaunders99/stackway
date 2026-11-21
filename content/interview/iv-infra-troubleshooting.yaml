@@ -1,0 +1,76 @@
+id: "iv-infra-troubleshooting"
+title: "維運排錯情境題"
+track: "aiinfra"
+questions:
+  - id: "iv-infra-troubleshooting-pending"
+    question: "GPU 工作一直 Pending，為什麼不該先重建映像檔？"
+    points:
+      - "查排程事件"
+      - "核對請求與可用資源"
+      - "區分排程與啟動"
+    answer: "尚未排到節點時，程式甚至可能還沒啟動。先讀排程事件，比對資源名稱、容量、節點選擇與配額；只有定位到映像拉取問題才檢查映像。"
+    tags:
+      - "scheduling"
+  - id: "iv-infra-troubleshooting-ready"
+    question: "Pod 顯示執行中，但流量沒有進去，先看什麼？"
+    points:
+      - "查就緒狀態"
+      - "核對選取標籤與端點"
+      - "用少量請求驗證"
+    answer: "執行中不等於可接流量。先比對就緒探針與 Service 選到的端點，再查連接埠是否正確。修正後重送固定測試請求並確認端點恢復。"
+    tags:
+      - "readiness"
+  - id: "iv-infra-troubleshooting-p99"
+    question: "平均延遲穩定，少數人卻等很久，怎麼證明？"
+    points:
+      - "看百分位與樣本數"
+      - "依請求類型切分"
+      - "追蹤慢請求階段"
+    answer: "先用足夠樣本的直方圖看尾端，再按長度、版本與佇列切分。從慢請求的追蹤區分等候或執行，不把平均不變當成服務沒問題。"
+    tags:
+      - "latency"
+  - id: "iv-infra-troubleshooting-hang"
+    question: "多行程訓練卡在集合通訊，第一個疑點是網卡嗎？"
+    points:
+      - "找最後完成步驟"
+      - "比對各順位"
+      - "區分缺席與傳輸慢"
+    answer: "先核對每個順位是否進入同一集合操作。某個資料載入工作已經失敗，其餘順位也會看似卡在通訊；確認全部到場後才比較連線與傳輸時間。"
+    tags:
+      - "collective"
+  - id: "iv-infra-troubleshooting-disk"
+    question: "訓練幾小時後寫檢查點失敗，怎麼避免損壞上次成果？"
+    points:
+      - "檢查空間與配額"
+      - "新舊分開寫"
+      - "驗證後才切換"
+    answer: "先保留最近可載入的版本，檢查磁碟空間、配額與寫入權限。新檢查點寫到另一個位置，確認完整可讀後再切換參照，不直接覆蓋唯一副本。"
+    tags:
+      - "storage"
+  - id: "iv-infra-troubleshooting-restart"
+    question: "測試服務不停重新啟動，如何區分崩潰與探針太嚴？"
+    points:
+      - "區分退出原因與事件"
+      - "讀取前一執行個體紀錄"
+      - "用時間對照門檻"
+    answer: "把結束原因、上一次的紀錄與探針事件對在同一時間線。若啟動所需時間超過門檻，應設合理的啟動探針；若程式已自行退出，放寬探針並不能修好它。"
+    tags:
+      - "probes"
+  - id: "iv-infra-troubleshooting-backlog"
+    question: "工作佇列快滿，增加重試後為什麼更糟？"
+    points:
+      - "辨認重試流量"
+      - "限制重試與退避"
+      - "保護下游"
+    answer: "把原始請求與重試分開計數。當下游已飽和，無上限重試只會搶走恢復空間。限制重試預算與並行，等積壓開始下降後再逐步恢復流量。"
+    tags:
+      - "backpressure"
+  - id: "iv-infra-troubleshooting-rollout"
+    question: "剛發版錯誤率就升高，能立即斷言是新版本嗎？"
+    points:
+      - "先降低影響"
+      - "依版本與流量對照"
+      - "回復後驗證"
+    answer: "時間接近是線索而非證明。達到停止條件就先暫停擴大發布，比較新舊版本同類請求。必要時回復，再以相同指標確認錯誤真的下降。"
+    tags:
+      - "rollout"

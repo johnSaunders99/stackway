@@ -1,0 +1,17 @@
+id: cr-behavior
+track: career
+stage: 4
+order: 50
+title: 行為面試與技術表達
+subtitle: 行為面試與技術溝通
+summary: 用真實練習說出自己做過什麼、怎麼判斷、下次會怎麼改。
+outcomes:
+  - 用情境、任務、行動、結果整理素材
+  - 用一個小步驟把不確定性縮小
+  - 記下哪個答案缺例證或量化條件
+prereqs:
+  - cr-portfolio
+roles:
+  - fullstack
+  - aiinfra
+hours: 2.6

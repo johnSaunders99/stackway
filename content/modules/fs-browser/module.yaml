@@ -1,0 +1,18 @@
+id: fs-browser
+track: fullstack
+stage: 2
+order: 40
+title: 瀏覽器與非同步程式
+subtitle: 一個會回應的瀏覽器頁面
+summary: 把狀態、輸入事件和網路等待組成可操作的小工具。
+outcomes:
+  - 以 DOM 方法建立文字節點
+  - 分辨網路失敗與 HTTP 錯誤
+  - 選擇適合本機保留的小量偏好
+prereqs:
+  - fs-js
+  - fd-network
+roles:
+  - fullstack
+hours: 5.1
+project: proj-02-desk

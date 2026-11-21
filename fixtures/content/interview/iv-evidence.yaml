@@ -1,0 +1,28 @@
+id: iv-evidence
+track: career
+title: 練習交接
+questions:
+  - id: iv-evidence-1
+    question: 如何讓另一個人重現你的練習？
+    points:
+      - 提供起始狀態與步驟
+      - 列出預期結果
+    answer: 用一個很小的輸入，記下操作順序與可觀察的輸出。
+    tags:
+      - 重現
+  - id: iv-evidence-2
+    question: 如果交付時間只剩一半，你會怎麼選？
+    points:
+      - 留下必要功能
+      - 交代未完成部分
+    answer: 先完成可以驗證的一條流程，再列出省略部分與風險。
+    tags:
+      - 取捨
+  - id: iv-evidence-3
+    question: 如何知道你修正了原來的問題？
+    points:
+      - 重跑原來的情境
+      - 比較修正前後
+    answer: 用原來會失敗的輸入再測一次，記錄輸出差異。
+    tags:
+      - 證據

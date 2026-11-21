@@ -1,0 +1,15 @@
+id: ai-demo
+track: aiinfra
+stage: 2
+order: 10
+title: 模型從哪裡回答
+summary: 沿著一筆輸入，認識推論服務的工作。
+outcomes:
+  - 區分訓練與推論
+  - 描述即時與批次的取捨
+  - 用輸入和輸出記錄案例
+prereqs:
+  - fd-demo
+roles:
+  - aiinfra
+hours: 1

@@ -1,0 +1,15 @@
+id: cr-demo
+track: career
+stage: 4
+order: 10
+title: 把練習說成證據
+summary: 從一次小改動出發，讓別人看見你的判斷。
+outcomes:
+  - 交代任務限制
+  - 描述自己的動作
+  - 用觀察支持結果
+prereqs: []
+roles:
+  - fullstack
+  - aiinfra
+hours: 1

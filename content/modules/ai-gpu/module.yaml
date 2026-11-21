@@ -1,0 +1,17 @@
+id: ai-gpu
+track: aiinfra
+stage: 2
+order: 30
+title: GPU 架構與 CUDA
+subtitle: 從張量到 GPU 效能剖析
+summary: 先找到慢在哪裡，再決定是否該動 CUDA；沒有 GPU 也能讀圖。
+outcomes:
+  - 將向量元素對到區塊、執行緒與硬體執行單位
+  - 以 CPU 參考值檢查第 1 個 CUDA 或 Triton 核心
+  - 由時間軸、記憶體讀寫量與算術強度判斷瓶頸
+prereqs:
+  - ai-ml
+  - fd-systems
+roles:
+  - aiinfra
+hours: 6.4

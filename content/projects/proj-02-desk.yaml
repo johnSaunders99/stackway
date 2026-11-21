@@ -1,0 +1,29 @@
+id: proj-02-desk
+track: fullstack
+title: 02 只用鍵盤也能操作的閱讀清單
+summary: 做出可以新增、篩選、重新整理後仍保留內容的單頁工具。
+why: 證明你能處理真實輸入與操作狀態，而不只複製一張設計圖。
+modules:
+  - fs-css
+  - fs-browser
+level: 2
+hours: 15
+milestones:
+  - id: proj-02-desk-m1
+    title: 把資料和畫面分開
+    checks:
+      - 用虛構書名建立兩筆範例
+      - 空清單有下一個行動
+  - id: proj-02-desk-m2
+    title: 處理輸入與記憶
+    checks:
+      - 空名稱無法新增；切換篩選後不會遺失清單
+      - 重整後能讀到之前的清單
+  - id: proj-02-desk-m3
+    title: 驗收鍵盤路徑
+    checks:
+      - 不使用滑鼠也能完成核心操作
+      - 窄畫面仍讀得到提示
+stretch:
+  - 加入匯出，驗證其內容能讀回。
+showcase: 示範不用滑鼠新增一筆資料、切換篩選並重整，再把視窗縮窄，讓人看得見焦點與錯誤提示。

@@ -1,0 +1,18 @@
+id: ai-train
+track: aiinfra
+stage: 3
+order: 110
+title: 分散式模型訓練
+subtitle: 把訓練放到多個工作行程
+summary: 用小案例分出資料平行、狀態分片與通訊停滯。
+outcomes:
+  - 從 torchrun 辨識順位和資料分片
+  - 手算 3 種集合通訊的輸入與輸出
+  - 依參數、梯度與最佳化器狀態選擇平行或分片方式
+prereqs:
+  - ai-ml
+  - ai-gpu
+  - ai-cluster
+roles:
+  - aiinfra
+hours: 7.1

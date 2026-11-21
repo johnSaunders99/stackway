@@ -1,0 +1,18 @@
+id: ai-gateway
+track: aiinfra
+stage: 3
+order: 120
+title: 模型閘道與檢索服務
+subtitle: 讓模型成為可控的內部服務
+summary: 在模型前處理配額、檢索與觀察，不把串好聊天介面當平台。
+outcomes:
+  - 在入口區分租戶與服務身分
+  - 區分檢索召回與答案正確性
+  - 追蹤 context 取消如何傳到下游
+prereqs:
+  - ai-llm
+  - fd-design
+  - ai-go
+roles:
+  - aiinfra
+hours: 2.9

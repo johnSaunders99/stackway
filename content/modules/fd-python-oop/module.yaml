@@ -1,0 +1,17 @@
+id: fd-python-oop
+track: foundations
+stage: 1
+order: 70
+title: Python 物件導向與迭代
+subtitle: 把狀態放回負責它的物件
+summary: 從類別、實例到迭代器，知道何時需要狀態，何時簡單函式就足夠。
+outcomes:
+  - 用實例方法維護互不共用的狀態
+  - 比較繼承、組合與資料類別
+  - 逐步追蹤迭代器與生成器何時產生下一筆
+prereqs:
+  - fd-python-data
+roles:
+  - fullstack
+  - aiinfra
+hours: 3.1

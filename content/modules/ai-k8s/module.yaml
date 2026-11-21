@@ -1,0 +1,17 @@
+id: ai-k8s
+track: aiinfra
+stage: 2
+order: 40
+title: Kubernetes 物件與部署
+subtitle: 讓 Kubernetes 接手服務生命週期
+summary: 從單容器走到能重新排程、觀察和回復的工作負載。
+outcomes:
+  - 從 Pod、Deployment 到 Service 追出一次請求
+  - 用儲存宣告與設定物件分離資料和容器
+  - 區分 Helm、Operator 與裝置外掛的工作
+prereqs:
+  - fd-docker
+  - fd-network
+roles:
+  - aiinfra
+hours: 6.5

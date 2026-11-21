@@ -1,0 +1,17 @@
+id: ai-ml
+track: aiinfra
+stage: 2
+order: 10
+title: PyTorch 與模型訓練
+subtitle: 讓模型學會，再證明它真的學會
+summary: 只用 CPU 跑小型分類，保留往後做平台時要追的資料與指標。
+outcomes:
+  - 用列與欄解釋張量形狀
+  - 比較同批資料更新前後的損失
+  - 辨認模型權重與最佳化器狀態
+prereqs:
+  - fd-python-tools
+  - fd-algo
+roles:
+  - aiinfra
+hours: 6.2

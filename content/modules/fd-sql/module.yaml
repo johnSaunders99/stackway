@@ -1,0 +1,17 @@
+id: fd-sql
+track: foundations
+stage: 1
+order: 110
+title: SQL 與關聯式資料庫
+subtitle: 用 SQL 問資料問題
+summary: 把需求寫成可以手算核對的查詢，再處理關聯與交易。
+outcomes:
+  - 從小表取出需要的欄位
+  - 比較 COUNT 欄位與 COUNT 全列
+  - 預測哪一個查詢會受益
+prereqs:
+  - fd-python
+roles:
+  - fullstack
+  - aiinfra
+hours: 4

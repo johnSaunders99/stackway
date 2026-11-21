@@ -1,0 +1,18 @@
+id: ai-mlops
+track: aiinfra
+stage: 3
+order: 90
+title: 模型版本與發布
+subtitle: 從實驗走到可追溯的模型發布
+summary: 資料版本、訓練設定、模型成品與回復程序一起交付。
+outcomes:
+  - 為一次執行保留輸入、設定與產物識別
+  - 訂定每站可重試但不重複發布的規則
+  - 比較影子流量與小比例發布
+prereqs:
+  - ai-ml
+  - fd-delivery
+roles:
+  - aiinfra
+hours: 2.9
+project: proj-05-model

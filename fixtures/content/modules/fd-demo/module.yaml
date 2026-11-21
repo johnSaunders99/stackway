@@ -1,0 +1,16 @@
+id: fd-demo
+subtitle: 把檔案、位置與程式串成一條路
+track: foundations
+stage: 0
+order: 10
+title: 電腦裡的工作桌
+summary: 認識檔案、找到位置，再寫下第一行程式。
+outcomes:
+  - 分辨檔案與資料夾
+  - 用路徑描述位置
+  - 預測簡單程式的輸出
+prereqs: []
+roles:
+  - fullstack
+  - aiinfra
+hours: 2

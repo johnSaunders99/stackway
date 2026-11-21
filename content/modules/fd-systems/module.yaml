@@ -1,0 +1,17 @@
+id: fd-systems
+track: foundations
+stage: 1
+order: 120
+title: 作業系統與並行
+subtitle: 行程、記憶體與等待
+summary: 用一個變慢的工作區分計算、等待、記憶體和磁碟。
+outcomes:
+  - 區分程式檔與執行中的行程
+  - 指出需要保護的讀改寫區段
+  - 估計同時工作數增加的代價
+prereqs:
+  - fd-python-tools
+roles:
+  - fullstack
+  - aiinfra
+hours: 3

@@ -1,0 +1,29 @@
+id: proj-08-platform-design
+track: aiinfra
+title: 08 多租戶推論平台的容量答辯
+summary: 把基準與容量表整合成一份可質疑、可演練的設計。
+why: 證明你能把實測轉為有限制的容量決策，也知道何時必須取得真實叢集資料。
+modules:
+  - ai-design
+  - ai-cluster
+level: 4
+hours: 36
+milestones:
+  - id: proj-08-platform-design-m1
+    title: 建立限制清單
+    checks:
+      - 列出服務目標與負載分布
+      - 標示每一數字是實測或假設
+  - id: proj-08-platform-design-m2
+    title: 比較 2 個方案
+    checks:
+      - 給出單位一致的容量與成本表，標示輸入來源；用相同負載重算兩個方案
+      - 指出一項反對自己首選的證據
+  - id: proj-08-platform-design-m3
+    title: 演練降級
+    checks:
+      - 記錄配額不足時的處理順序
+      - 留下上線前仍需驗證的條件
+stretch:
+  - 用實際授權取得的叢集追蹤替換模擬值。
+showcase: 拿走一半假設容量後重算一次，說明哪些團隊被限流、誰收到通知、什麼情況觸發回復。

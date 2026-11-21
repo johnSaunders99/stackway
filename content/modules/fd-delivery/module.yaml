@@ -1,0 +1,19 @@
+id: fd-delivery
+track: foundations
+stage: 2
+order: 160
+title: 持續整合與發布
+subtitle: 從版本到可回復的服務
+summary: 把建置、檢查、發布與還原各留下一份可追蹤的證據。
+outcomes:
+  - 把觸發事件與執行步驟分開
+  - 列出閒置仍可能產生費用的資源
+  - 定義小流量觀察指標與停止條件
+prereqs:
+  - fd-docker
+  - fd-python-tools
+roles:
+  - fullstack
+  - aiinfra
+hours: 2.6
+project: proj-04-ops

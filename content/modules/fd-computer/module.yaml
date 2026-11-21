@@ -1,0 +1,16 @@
+id: fd-computer
+track: foundations
+stage: 0
+order: 10
+title: Windows 檔案與工具
+subtitle: 把第一份練習存回自己的電腦
+summary: 從一個空資料夾開始，做出關掉視窗仍找得回來的學習筆記。
+outcomes:
+  - 在檔案總管建立並重新找到練習資料夾
+  - 區分編輯器的分頁、磁碟上的檔案與資料夾
+  - 在 PowerShell 查詢目前位置及目錄內容
+prereqs: []
+roles:
+  - fullstack
+  - aiinfra
+hours: 1.6

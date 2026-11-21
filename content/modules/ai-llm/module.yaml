@@ -1,0 +1,16 @@
+id: ai-llm
+track: aiinfra
+stage: 2
+order: 20
+title: Transformer 架構與解碼
+subtitle: 把一段文字追到下一個 token
+summary: 理解語言模型如何用記憶體換時間，再來量測服務表現。
+outcomes:
+  - 用 2 種字串比較切分結果
+  - 區分首詞元延遲與後續產生速度
+  - 固定提示與輸出長度分布
+prereqs:
+  - ai-ml
+roles:
+  - aiinfra
+hours: 5.4

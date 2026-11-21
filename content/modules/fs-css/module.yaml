@@ -1,0 +1,16 @@
+id: fs-css
+track: fullstack
+stage: 1
+order: 20
+title: CSS 排版與視覺設計
+subtitle: 讓同一份內容適合兩種螢幕
+summary: 用瀏覽器檢查樣式的來源與尺寸，完成寬窄畫面都能閱讀的版面。
+outcomes:
+  - 用開發者工具找出勝出的樣式
+  - 依內容選擇 Flexbox 或 Grid
+  - 用 2 種視窗寬度、放大文字與對比驗收同一頁
+prereqs:
+  - fs-html
+roles:
+  - fullstack
+hours: 4.2

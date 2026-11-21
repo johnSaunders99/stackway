@@ -1,0 +1,37 @@
+{
+  "name": "stackway",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "content": "node tools/build-content.mjs",
+    "check:content": "node tools/check-content.mjs",
+    "dev": "node tools/dev.mjs",
+    "build": "node tools/build.mjs",
+    "serve": "node server/serve.mjs",
+    "test": "vitest run",
+    "typecheck": "tsc -b",
+    "check": "npm run typecheck && npm test && npm run check:content -- --src fixtures/content && node tools/check-real-content.mjs && node tools/check-build.mjs --src fixtures/content"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.30.1",
+    "dexie": "4.2.1",
+    "dexie-react-hooks": "1.1.7",
+    "ts-fsrs": "5.2.3",
+    "lucide-react": "0.468.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "@vitejs/plugin-react": "4.4.1",
+    "fake-indexeddb": "6.0.0",
+    "highlight.js": "11.11.1",
+    "markdown-it": "14.1.0",
+    "typescript": "5.8.3",
+    "vite": "6.1.6",
+    "vitest": "3.0.9",
+    "yaml": "2.7.1"
+  }
+}

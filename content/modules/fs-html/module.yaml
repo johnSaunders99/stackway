@@ -1,0 +1,16 @@
+id: fs-html
+track: fullstack
+stage: 1
+order: 10
+title: HTML 與網頁入門
+subtitle: 從語意頁面到鍵盤操作
+summary: 不用框架做出一頁窄螢幕也讀得懂的作品說明。
+outcomes:
+  - 用語意元素分開主內容與導覽
+  - 在窄視窗找出並修正溢位
+  - 保留焦點外框與合理順序
+prereqs:
+  - fd-computer
+roles:
+  - fullstack
+hours: 3.3

@@ -1,0 +1,29 @@
+id: proj-06-platform
+track: aiinfra
+title: 06 可觀察的小型 Kubernetes 平台
+summary: 讓兩個版本的測試服務有明確就緒狀態、請求指標與回復手冊。
+why: 證明會用訊號定位問題，不只是交出幾份宣告檔。
+modules:
+  - ai-k8s
+  - ai-observe
+level: 3
+hours: 32
+milestones:
+  - id: proj-06-platform-m1
+    title: 調和與路由
+    checks:
+      - 在自己的拋棄式測試命名空間移除受 Deployment 管理的 Pod，觀察替代 Pod 就緒
+      - 只把流量送給就緒副本
+  - id: proj-06-platform-m2
+    title: 追蹤請求
+    checks:
+      - 請求數與人工送出的筆數能對上
+      - 能按服務版本區分錯誤
+  - id: proj-06-platform-m3
+    title: 復原與移交
+    checks:
+      - 只在測試命名空間演練
+      - 用同一組請求確認回復
+stretch:
+  - 以紙上容量表加入一份 GPU 待排程案例。
+showcase: 演示標籤不符的測試服務，先查端點再查畫面；說明哪個指標讓你停止擴容。

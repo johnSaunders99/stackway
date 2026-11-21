@@ -1,0 +1,30 @@
+id: proj-07-inference
+track: aiinfra
+title: 07 首個詞元要等多久：推論服務基準
+summary: 固定輸入分布比較兩種服務設定；沒有 GPU 就量 CPU，不假裝做過 GPU 實驗。
+why: 讓面試官能重算延遲和吞吐，也能看見你如何拒絕無效的速度比較。
+modules:
+  - ai-llm
+  - ai-serving
+level: 3
+hours: 40
+milestones:
+  - id: proj-07-inference-m1
+    title: 留下實驗配方
+    checks:
+      - 記錄模型版本、精度與硬體
+      - 標記冷啟動、暖機與正式量測的範圍；不要把暖機請求算入穩態吞吐量
+      - CPU 路線用可串流的小模型
+  - id: proj-07-inference-m2
+    title: 執行對照
+    checks:
+      - 固定請求清單與輸出上限
+      - 每輪記錄送出、收到第一個有內容的詞元與完成的時刻，另列失敗數
+  - id: proj-07-inference-m3
+    title: 解讀限制
+    checks:
+      - 交付可重算的原始資料與單位
+      - 無 GPU 的結果不宣稱測到 CUDA 或叢集擴展
+stretch:
+  - 有可用 GPU 再另開結果表，不與 CPU 結果混作同一基準。
+showcase: 列出模型、裝置、暖機、成功數與失敗數，展示一個吞吐提升但尾端延遲變差的實測或反例。

@@ -1,0 +1,17 @@
+id: ai-cluster
+track: aiinfra
+stage: 3
+order: 100
+title: GPU 叢集與資源排程
+subtitle: GPU 叢集的排程與容量
+summary: 用一張資源表解釋公平性、互連與儲存，不假裝擁有實體叢集。
+outcomes:
+  - 辨識驅動、裝置外掛與 GPU Operator 的責任
+  - 區分排隊、執行與已結束狀態
+  - 估算一輪寫入的總資料量與時間
+prereqs:
+  - ai-k8s
+  - ai-gpu
+roles:
+  - aiinfra
+hours: 3.5

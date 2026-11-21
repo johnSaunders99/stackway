@@ -1,0 +1,17 @@
+id: fs-js
+track: fullstack
+stage: 1
+order: 30
+title: JavaScript 語言基礎
+subtitle: 用 JavaScript 表達頁面邏輯
+summary: 把資料轉成可顯示的清單，先在沒有畫面的地方測邏輯。
+outcomes:
+  - 預測基本型別與物件複製後的結果
+  - 解釋 0 與空字串不等於沒有值
+  - 建立一組具名匯出與匯入
+prereqs:
+  - fd-python
+  - fs-html
+roles:
+  - fullstack
+hours: 5.5

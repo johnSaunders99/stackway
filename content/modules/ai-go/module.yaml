@@ -1,0 +1,16 @@
+id: ai-go
+track: aiinfra
+stage: 2
+order: 60
+title: Go 基礎設施小工具
+subtitle: 讓小工具說清楚失敗在哪一步
+summary: 用 Go 讀取示例資料、驗證輸入並寫測試；不延伸成第 2 套後端框架課。
+outcomes:
+  - 建置可在本機重跑的小工具
+  - 以結構、切片和錯誤回傳解析資料
+  - 用表格驅動測試驗收空值與格式錯誤
+prereqs:
+  - fd-linux
+roles:
+  - aiinfra
+hours: 2.8

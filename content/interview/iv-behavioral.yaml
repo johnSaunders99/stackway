@@ -1,0 +1,76 @@
+id: "iv-behavioral"
+title: "從行動談合作"
+track: "career"
+questions:
+  - id: "iv-behavioral-mistake"
+    question: "交付後才發現自己看錯需求，你怎麼向團隊說明？"
+    points:
+      - "先說實際影響"
+      - "說明自己負責的決定"
+      - "指出可驗證的補救"
+    answer: "我會先確認哪些使用流程受影響，再交代我在哪個假設上出錯，避免把責任推給需求文件。接著提出可回復的修正，與提出需求的人用一個具體例子重新驗收。"
+    tags:
+      - "ownership"
+  - id: "iv-behavioral-disagree"
+    question: "兩個人都堅持自己的技術方案，如何結束爭論？"
+    points:
+      - "確認共同目標"
+      - "訂出比較條件"
+      - "保留決策紀錄"
+    answer: "我會把爭論改寫成可比較的問題，例如同樣資料量下哪個方案能在 1 週內交付。對不確定性最高的部分做小實驗，記下沒選另一方案的理由及重開討論的條件。"
+    tags:
+      - "tradeoff"
+  - id: "iv-behavioral-unknown"
+    question: "對方問到沒用過的工具，你如何繼續對話？"
+    points:
+      - "坦白未使用"
+      - "連結已知原理"
+      - "說明怎麼驗證"
+    answer: "我沒在正式環境使用過它，不會把閱讀當經驗。我會先確認對方想解決的問題，用熟悉的工具解釋同一原理，最後說明會用哪個小案例測試兩者差異。"
+    tags:
+      - "honesty"
+  - id: "iv-behavioral-deadline"
+    question: "剩 2 天仍做不完全部功能，會怎麼取捨？"
+    points:
+      - "明確剩餘風險"
+      - "保留最小使用流程"
+      - "提早溝通"
+    answer: "我會列出缺了就不能安全使用的步驟，例如權限檢查，先保住它們；次要報表延後。把可驗收範圍、延後代價與新時間點告知利害關係人，而不是最後一刻默默砍功能。"
+    tags:
+      - "priorities"
+  - id: "iv-behavioral-feedback"
+    question: "審查意見讓你覺得被誤解，如何回應？"
+    points:
+      - "先重述顧慮"
+      - "用案例檢驗"
+      - "回報處理結果"
+    answer: "我會問對方擔心的是可讀性還是某個失敗情境，先用自己的話確認。若案例成立就補測試並修正；若不成立，提供可重跑的證據，仍評估是否該改善說明。"
+    tags:
+      - "feedback"
+  - id: "iv-behavioral-handoff"
+    question: "你休假前，如何讓同事能接手一個陌生服務？"
+    points:
+      - "交代如何辨認健康"
+      - "提供安全復原路線"
+      - "確認對方能獨立操作"
+    answer: "我不只傳文件，還會請對方從測試環境走一次檢查與還原，觀察在哪一步需要問我。把該處補成明確的輸入與預期結果，再列出哪些狀況要升級處理。"
+    tags:
+      - "handoff"
+  - id: "iv-behavioral-impact"
+    question: "只有個人作品，怎樣回答「你的成果有什麼影響」？"
+    points:
+      - "定義使用情境"
+      - "提供原始證據"
+      - "不誇大受益人數"
+    answer: "我會以一個可重跑的使用流程說明前後差異，例如相同 10 筆資料從手動核對改成自動驗收。我只報告量到的條件、正確性與時間，不把模擬流量寫成真實使用者。"
+    tags:
+      - "evidence"
+  - id: "iv-behavioral-english"
+    question: "跨時區同伴要接手事故，你會如何寫一段簡短英文更新？"
+    points:
+      - "說明影響範圍"
+      - "分清觀察與猜測"
+      - "交代下一步與交接"
+    answer: "我會寫：Only new uploads are failing. Reads still work. Errors began after the release; the cause is not confirmed. Next: compare the two versions in staging. 先交代可驗證的事，避免把時間相關誤寫成因果。"
+    tags:
+      - "communication"

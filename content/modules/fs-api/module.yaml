@@ -1,0 +1,18 @@
+id: fs-api
+track: fullstack
+stage: 2
+order: 80
+title: REST API 與身分驗證
+subtitle: 用 Node.js 交付一個 API
+summary: 讓不同呼叫端以同一套規則讀寫資料，連失敗情形都有約定。
+outcomes:
+  - 把新增與查詢分成不同 HTTP 動作
+  - 說明登出時需失效的資料
+  - 為重送請求定義相同的結果
+prereqs:
+  - fs-node
+  - fs-ts
+  - fd-sql
+roles:
+  - fullstack
+hours: 4.8

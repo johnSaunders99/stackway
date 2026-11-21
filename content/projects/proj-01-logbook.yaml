@@ -1,0 +1,30 @@
+id: proj-01-logbook
+track: foundations
+title: 01 練習紀錄摘要器
+summary: 把虛構的學習紀錄整理成每週摘要；在新資料夾也能跑。
+why: 讓審查者看到你會讀檔、處理壞輸入，也能說明數字怎麼來。
+modules:
+  - fd-python
+  - fd-python-data
+  - fd-git
+level: 1
+hours: 9
+milestones:
+  - id: proj-01-logbook-m1
+    title: 定義輸入格式
+    checks:
+      - 留下 3 列虛構範例，記下各欄的意義與分鐘單位
+      - 用手算列出預期摘要
+  - id: proj-01-logbook-m2
+    title: 輸出摘要
+    checks:
+      - 總數與手算相符
+      - 空檔不會產生虛構時數
+  - id: proj-01-logbook-m3
+    title: 寫下重跑步驟
+    checks:
+      - 別的目錄可依說明執行
+      - 輸入檔內容沒有被修改
+stretch:
+  - 增加分類篩選，保留預設輸出。
+showcase: 拿里程碑的 3 列輸入當場驗算，再加 1 個空白列，展示工具如何回應。

@@ -1,0 +1,17 @@
+id: cr-search
+track: career
+stage: 4
+order: 20
+title: 職缺分析與投遞
+subtitle: 用回覆修正投遞方向
+summary: 先決定職缺是否合適，再用小批次投遞檢驗自己的假設。
+outcomes:
+  - 分開日常工作、硬條件與加分項
+  - 不用改動事實也能回應不同需求
+  - 對照回饋找出重複缺口
+prereqs:
+  - cr-portfolio
+roles:
+  - fullstack
+  - aiinfra
+hours: 2.6

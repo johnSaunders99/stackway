@@ -1,0 +1,18 @@
+id: fd-docker
+track: foundations
+stage: 2
+order: 150
+title: Docker 容器與編排
+subtitle: 封裝一個能重建的環境
+summary: 把程式和執行環境包起來，分清設定、程式與持久資料。
+outcomes:
+  - 從同一映像建立 2 個獨立容器
+  - 限制測試服務只接受本機連線
+  - 用服務名稱說明容器之間的連線
+prereqs:
+  - fd-linux
+  - fd-git
+roles:
+  - fullstack
+  - aiinfra
+hours: 3.6

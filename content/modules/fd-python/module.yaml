@@ -1,0 +1,18 @@
+id: fd-python
+track: foundations
+stage: 1
+order: 40
+title: Python 基礎
+subtitle: 用 Python 寫出第一個小工具
+summary: 把幾列練習紀錄讀進來，逐步做成能重跑的摘要。
+outcomes:
+  - 用條件、迴圈與函式處理小批紀錄
+  - 用測資比較字串、整數與布林值
+  - 用 with 開檔並用手算驗證結果
+prereqs:
+  - fd-cli
+roles:
+  - fullstack
+  - aiinfra
+hours: 6.8
+project: proj-01-logbook

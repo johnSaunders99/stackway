@@ -1,0 +1,229 @@
+- id: fullstack
+  title: 全端工程師（Full-Stack Developer）
+  summary: 從使用者操作一路追到資料庫，能交付、測試、部署並說明一項完整功能。
+  skills:
+    - id: skill-fs-collaboration
+      title: 協作審查與交接
+      weight: 3
+      modules:
+        - fd-git
+        - cr-portfolio
+    - id: skill-fs-api
+      title: API 契約與錯誤處理
+      weight: 3
+      modules:
+        - fs-api
+        - fs-data
+    - id: skill-fs-react
+      title: React 元件與狀態
+      weight: 3
+      modules:
+        - fs-react
+        - fs-quality
+    - id: skill-fs-testing
+      title: 從單元到端對端驗收
+      weight: 3
+      modules:
+        - fs-quality
+    - id: skill-fs-typescript
+      title: 以型別守住資料邊界
+      weight: 3
+      modules:
+        - fs-ts
+    - id: skill-fs-cloud
+      title: 部署、成本與回復
+      weight: 3
+      modules:
+        - fd-aws
+        - fs-production
+    - id: skill-fs-cicd
+      title: 持續整合與可回復發布
+      weight: 2
+      modules:
+        - fd-delivery
+    - id: skill-fs-sql
+      title: 資料建模與交易
+      weight: 3
+      modules:
+        - fd-sql
+        - fs-data
+    - id: skill-fs-nodejs
+      title: Node.js 請求處理
+      weight: 2
+      modules:
+        - fs-node
+        - fs-api
+        - fs-services
+    - id: skill-fs-javascript
+      title: JavaScript 與瀏覽器事件
+      weight: 2
+      modules:
+        - fs-js
+        - fs-browser
+    - id: skill-fs-security
+      title: 工作階段與物件層級授權
+      weight: 2
+      modules:
+        - fs-api
+        - fs-quality
+    - id: skill-fs-docker
+      title: 容器封裝與持久資料
+      weight: 2
+      modules:
+        - fd-docker
+    - id: skill-fs-git
+      title: 版本控制與審查
+      weight: 2
+      modules:
+        - fd-git
+        - fd-git-recovery
+    - id: skill-fs-html-css
+      title: 語意頁面與響應式版面
+      weight: 2
+      modules:
+        - fs-html
+        - fs-css
+    - id: skill-fs-english
+      title: 用英文說清技術決策
+      weight: 2
+      modules:
+        - cr-behavior
+    - id: skill-fs-java
+      title: 閱讀並移植 Java 端點
+      weight: 2
+      modules:
+        - fs-market-stack
+    - id: skill-fs-vue
+      title: 以 Vue 重做前端元件
+      weight: 2
+      modules:
+        - fs-market-stack
+    - id: skill-fs-dsa
+      title: 資料結構與限時解題
+      weight: 1
+      modules:
+        - fd-algo
+        - cr-coding
+    - id: skill-fs-nextjs
+      title: 伺服器與瀏覽器的渲染邊界
+      weight: 1
+      modules:
+        - fs-production
+- id: aiinfra
+  title: AI 基礎設施工程師（AI Infrastructure Engineer）
+  summary: 能讓模型穩定上線、量得出成本與品質，並區分哪些問題需要實際叢集經驗。
+  skills:
+    - id: skill-ai-gpu
+      title: GPU 資源與記憶體
+      weight: 3
+      modules:
+        - ai-gpu
+        - ai-cluster
+    - id: skill-ai-model-serving
+      title: 推論服務的基準與擴容
+      weight: 3
+      modules:
+        - ai-llm
+        - ai-serving
+    - id: skill-ai-python
+      title: Python 自動化與可測試工具
+      weight: 3
+      modules:
+        - fd-python
+        - fd-python-data
+        - fd-python-oop
+        - fd-python-tools
+    - id: skill-ai-distributed
+      title: 分散式工作與故障界線
+      weight: 3
+      modules:
+        - fd-design
+        - ai-train
+    - id: skill-ai-collaboration
+      title: 跨團隊文件與交接
+      weight: 3
+      modules:
+        - cr-portfolio
+        - cr-behavior
+    - id: skill-ai-observability
+      title: 指標、紀錄與追蹤
+      weight: 3
+      modules:
+        - ai-observe
+    - id: skill-ai-cloud
+      title: 雲端資源與成本邊界
+      weight: 3
+      modules:
+        - fd-aws
+        - ai-iac
+    - id: skill-ai-kubernetes
+      title: 容器編排與 GPU 排程
+      weight: 3
+      modules:
+        - ai-k8s
+        - ai-cluster
+    - id: skill-ai-networking
+      title: 連線診斷與叢集互連
+      weight: 3
+      modules:
+        - fd-network
+        - ai-cluster
+    - id: skill-ai-linux
+      title: Linux 行程、權限與指令
+      weight: 2
+      modules:
+        - fd-systems
+        - fd-linux
+    - id: skill-ai-cuda
+      title: CUDA 運算模型與計時
+      weight: 2
+      modules:
+        - ai-gpu
+    - id: skill-ai-pytorch
+      title: PyTorch 訓練與檢查點
+      weight: 2
+      modules:
+        - ai-ml
+    - id: skill-ai-vllm
+      title: 推論引擎與服務取捨
+      weight: 2
+      modules:
+        - ai-serving
+    - id: skill-ai-cicd
+      title: 模型與程式的發布流程
+      weight: 2
+      modules:
+        - fd-delivery
+        - ai-mlops
+    - id: skill-ai-nccl
+      title: 集合通訊與慢順位判讀
+      weight: 2
+      modules:
+        - ai-train
+    - id: skill-ai-go
+      title: 閱讀 Go 服務的取消邊界
+      weight: 2
+      modules:
+        - ai-go
+        - ai-gateway
+    - id: skill-ai-benchmarking
+      title: 可重現的模型效能量測
+      weight: 1
+      modules:
+        - ai-gpu
+        - ai-serving
+    - id: skill-ai-terraform
+      title: 基礎設施狀態與差異審查
+      weight: 1
+      modules:
+        - ai-iac
+    - id: skill-ai-mlflow
+      title: 實驗追蹤與模型版本
+      weight: 1
+      modules:
+        - ai-mlops
+    - id: skill-ai-slurm
+      title: 批次排程與配額
+      weight: 1
+      modules:
+        - ai-cluster

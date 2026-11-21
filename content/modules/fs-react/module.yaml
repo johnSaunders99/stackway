@@ -1,0 +1,18 @@
+id: fs-react
+track: fullstack
+stage: 2
+order: 70
+title: React 元件與狀態
+subtitle: 用 React 維護互動畫面
+summary: 用一個清單編輯器釐清元件如何共享資料及處理事件。
+outcomes:
+  - 用有型別的 props、狀態與事件完成表單
+  - 為載入、空值、錯誤與成功設計畫面
+  - 用查詢鍵、路由與自訂 Hook 區分共用資料與邏輯
+prereqs:
+  - fs-browser
+  - fs-ts
+  - fs-css
+roles:
+  - fullstack
+hours: 7.5

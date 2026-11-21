@@ -1,0 +1,32 @@
+id: proj-03-reserve
+track: fullstack
+title: 03 最後一席：可部署的預約服務
+summary: 兩個帳號同時預約時只能成功一個；附測試、可體驗版本與還原流程。
+why: 一件小事做到底，同時證明畫面、API、交易、授權和維運能力。
+modules:
+  - fs-api
+  - fs-data
+  - fs-quality
+  - fs-production
+level: 3
+hours: 56
+milestones:
+  - id: proj-03-reserve-m1
+    title: 完成使用流程
+    checks:
+      - 以虛構帳號建立與取消預約
+      - 介面顯示滿額及失敗
+  - id: proj-03-reserve-m2
+    title: 守住資料邊界
+    checks:
+      - 在只剩 1 席時同時送出 2 次預約；只有 1 筆寫入成功，另一筆得到滿額回應
+      - 甲無法修改乙的預約
+  - id: proj-03-reserve-m3
+    title: 發布與回復
+    checks:
+      - 提供公開唯讀示範或可重建的本機部署
+      - 測試從乾淨資料執行
+      - 還原後比對預約筆數
+stretch:
+  - 在有授權的測試環境補上負載量測與結束後清理。
+showcase: 現場重播兩個人搶最後一席，指出保證來自哪個資料庫條件；接著示範舊版本還原。

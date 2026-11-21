@@ -1,0 +1,17 @@
+id: fs-services
+track: fullstack
+stage: 2
+order: 100
+title: 後端快取與非同步服務
+subtitle: 請求結束後，工作如何繼續
+summary: 把同步 API 延伸成能快取、排隊與推送結果的服務。
+outcomes:
+  - 用到期時間和回源策略處理快取
+  - 區分背景工作重送與新的工作
+  - 對上傳、限流與雙向連線設可觀察的失敗行為
+prereqs:
+  - fs-api
+  - fs-data
+roles:
+  - fullstack
+hours: 2.7

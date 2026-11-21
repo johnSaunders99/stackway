@@ -1,0 +1,17 @@
+id: fd-python-data
+track: foundations
+stage: 1
+order: 60
+title: Python 資料集合與模組
+subtitle: 把同一份紀錄整理成不同答案
+summary: 練習複合資料、函式範圍與匯入，避免把所有程式寫成一長串。
+outcomes:
+  - 選用元組、集合與串列切片
+  - 用排序鍵與推導式整理紀錄
+  - 將可重用的程式放進模組並匯入
+prereqs:
+  - fd-python
+roles:
+  - fullstack
+  - aiinfra
+hours: 3.8

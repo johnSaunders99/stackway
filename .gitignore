@@ -1,0 +1,14 @@
+node_modules/
+dist/
+public/content/
+userdata/
+.npm/
+coverage/
+.cache/
+*.tsbuildinfo
+*.log
+.env
+.env.*
+.vscode/
+.idea/
+Thumbs.db

@@ -1,0 +1,17 @@
+id: fd-git-recovery
+track: foundations
+stage: 2
+order: 130
+title: Git 歷史與復原
+subtitle: 先弄清要救的是哪一層
+summary: 在拋棄式練習庫區分檔案、分支與共用提交的復原方法。
+outcomes:
+  - 判斷要復原的是檔案、暫存內容或分支指標
+  - 在已分享的歷史用反向提交修正錯誤
+  - 用 reflog 在拋棄式副本找回提交
+prereqs:
+  - fd-git
+roles:
+  - fullstack
+  - aiinfra
+hours: 2.4

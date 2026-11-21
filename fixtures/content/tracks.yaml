@@ -1,0 +1,20 @@
+- id: foundations
+  title: 共同基礎
+  short: 基礎
+  color: wood
+  summary: 認識檔案、找到位置，再寫下第一行程式。
+- id: fullstack
+  title: 全端開發
+  short: 全端
+  color: teal
+  summary: 用標記與樣式，把一段文字整理成清楚的網頁。
+- id: aiinfra
+  title: AI 基礎設施
+  short: AI Infra
+  color: violet
+  summary: 沿著一筆輸入，認識推論服務的工作。
+- id: career
+  title: 求職實戰
+  short: 求職
+  color: vermilion
+  summary: 從一次小改動出發，讓別人看見你的判斷。

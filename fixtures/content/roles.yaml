@@ -1,0 +1,48 @@
+- id: fullstack
+  title: 全端工程師
+  summary: 把需求整理成可以使用的網站。
+  skills:
+    - id: skill-fullstack-1
+      title: 操作工作目錄
+      weight: 1
+      modules:
+        - fd-demo
+    - id: skill-fullstack-2
+      title: 設計可讀的範例
+      weight: 2
+      modules:
+        - fd-demo
+    - id: skill-fullstack-3
+      title: 實作網頁介面
+      weight: 3
+      modules:
+        - fs-demo
+    - id: skill-fullstack-4
+      title: 說明工程判斷
+      weight: 2
+      modules:
+        - cr-demo
+- id: aiinfra
+  title: AI 基礎設施工程師
+  summary: 讓模型的預測穩定抵達使用者。
+  skills:
+    - id: skill-aiinfra-1
+      title: 操作工作目錄
+      weight: 1
+      modules:
+        - fd-demo
+    - id: skill-aiinfra-2
+      title: 設計可讀的範例
+      weight: 2
+      modules:
+        - fd-demo
+    - id: skill-aiinfra-3
+      title: 規劃模型推論
+      weight: 3
+      modules:
+        - ai-demo
+    - id: skill-aiinfra-4
+      title: 說明工程判斷
+      weight: 2
+      modules:
+        - cr-demo

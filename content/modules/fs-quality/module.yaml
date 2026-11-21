@@ -1,0 +1,17 @@
+id: fs-quality
+track: fullstack
+stage: 2
+order: 110
+title: 全端測試與品質
+subtitle: 用測試描述整段使用旅程
+summary: 以登入後編輯一筆資料為例，把測試放在最能抓住問題的位置。
+outcomes:
+  - 把純計算與外部相依分開
+  - 只用鍵盤重播錯誤後再成功的流程
+  - 列出不同角色可操作的資源矩陣
+prereqs:
+  - fs-react
+  - fs-api
+roles:
+  - fullstack
+hours: 3.2

@@ -1,0 +1,100 @@
+:root {
+  color-scheme: light;
+  --bg: #F6F4EF;
+  --surface: #fff;
+  --surface-2: #FBFAF7;
+  --border: #E6E2D9;
+  --border-strong: #D3CEC2;
+  --text: #1D1F23;
+  --text-2: #5B5F66;
+  --text-3: #8A8E95;
+  --brand: #1E6B5A;
+  --brand-ink: #fff;
+  --track-wood: #8A6D3B;
+  --track-teal: #0E7490;
+  --track-violet: #6D28D9;
+  --track-vermilion: #C2410C;
+  --track-slate: #475569;
+  --rate-again: #C2410C;
+  --rate-hard: #B7791F;
+  --rate-good: #1E6B5A;
+  --rate-easy: #2563EB;
+  --ui: "Segoe UI Variable Text","Segoe UI","Microsoft JhengHei UI","Microsoft JhengHei","PingFang TC","Noto Sans TC",system-ui,sans-serif;
+  --mono: "Cascadia Code","JetBrains Mono",Consolas,monospace;
+  --body-size: 17px;
+  --reading: 720px;
+  --tint: color-mix(in srgb,var(--brand) 9%,var(--surface));
+  --chart-fill: color-mix(in srgb,var(--brand) 63%,var(--surface));
+  --track: var(--brand);
+  --shadow: 0 8px 24px rgba(0,0,0,.08);
+}
+:root[data-theme=dark] {
+  color-scheme: dark;
+  --bg: #121417;
+  --surface: #1A1D21;
+  --surface-2: #20242A;
+  --border: #2C3138;
+  --border-strong: #3A4048;
+  --text: #E7E5E0;
+  --text-2: #A4A8AF;
+  --text-3: #6E737B;
+  --brand: #4FB39B;
+  --brand-ink: #0E1F1A;
+  --track-wood: #C9A66B;
+  --track-teal: #38B2CC;
+  --track-violet: #A78BFA;
+  --track-vermilion: #FB8A5A;
+  --track-slate: #94A3B8;
+  --rate-again: #FB8A5A;
+  --rate-hard: #E0B050;
+  --rate-good: #4FB39B;
+  --rate-easy: #7BA3F5;
+}
+@media(prefers-color-scheme:dark) {
+  :root[data-theme=system] {
+    color-scheme: dark;
+    --bg: #121417;
+    --surface: #1A1D21;
+    --surface-2: #20242A;
+    --border: #2C3138;
+    --border-strong: #3A4048;
+    --text: #E7E5E0;
+    --text-2: #A4A8AF;
+    --text-3: #6E737B;
+    --brand: #4FB39B;
+    --brand-ink: #0E1F1A;
+    --track-wood: #C9A66B;
+    --track-teal: #38B2CC;
+    --track-violet: #A78BFA;
+    --track-vermilion: #FB8A5A;
+    --track-slate: #94A3B8;
+    --rate-again: #FB8A5A;
+    --rate-hard: #E0B050;
+    --rate-good: #4FB39B;
+    --rate-easy: #7BA3F5;
+  }
+}
+[data-font=small] {
+  --body-size: 15px;
+}
+[data-font=large] {
+  --body-size: 19px;
+}
+[data-width=narrow] {
+  --reading: 640px;
+}
+[data-width=wide] {
+  --reading: 820px;
+}
+.tone-foundations {
+  --track: var(--track-wood);
+}
+.tone-fullstack {
+  --track: var(--track-teal);
+}
+.tone-aiinfra {
+  --track: var(--track-violet);
+}
+.tone-career {
+  --track: var(--track-vermilion);
+}

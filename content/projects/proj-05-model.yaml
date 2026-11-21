@@ -1,0 +1,29 @@
+id: proj-05-model
+track: aiinfra
+title: 05 可追溯的 CPU 模型發布
+summary: 用小型資料集把評估、模型登錄與版本回復串起來。
+why: 不用租卡也能證明你分得清實驗分數與能放心發布的成品。
+modules:
+  - ai-ml
+  - ai-mlops
+level: 2
+hours: 22
+milestones:
+  - id: proj-05-model-m1
+    title: 建立基準
+    checks:
+      - 固定訓練、驗證與測試資料的切分；用驗證集選候選，保留測試集做最後驗收
+      - 與簡單預測規則比較
+  - id: proj-05-model-m2
+    title: 登錄候選模型
+    checks:
+      - 每次執行連得到版本與參數
+      - 低於門檻不會取代既有版本
+  - id: proj-05-model-m3
+    title: 重建與回復
+    checks:
+      - 乾淨環境能載入指定版本
+      - 回復後固定輸入得到預期輸出
+stretch:
+  - 加入資料版本變動時的提醒。
+showcase: 用一個故意較差的候選模型說明為何沒有發布，展示比較條件與回復指令的結果。

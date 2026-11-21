@@ -1,0 +1,17 @@
+id: fd-aws
+track: foundations
+stage: 2
+order: 170
+title: AWS 雲端入門
+subtitle: 先估花費，再畫部署圖
+summary: 不用付費帳號也能規劃最小服務、權限、網段、備份與退場清單。
+outcomes:
+  - 用示意帳單與通知區分預算和強制限制
+  - 畫出角色、網段、運算、物件儲存及受管資料庫
+  - 列出資源保留與清理後的驗收步驟
+prereqs:
+  - fd-delivery
+roles:
+  - fullstack
+  - aiinfra
+hours: 3.8

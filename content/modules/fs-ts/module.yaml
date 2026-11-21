@@ -1,0 +1,16 @@
+id: fs-ts
+track: fullstack
+stage: 2
+order: 50
+title: TypeScript 型別系統
+subtitle: 讓 TypeScript 看守資料邊界
+summary: 型別協助開發，真正來自網路的資料仍須在執行時檢查。
+outcomes:
+  - 描述必填與選填欄位
+  - 用缺欄位輸入驗證拒絕路徑
+  - 根據編譯訊息找出受影響的呼叫端
+prereqs:
+  - fs-js
+roles:
+  - fullstack
+hours: 4

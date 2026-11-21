@@ -1,0 +1,19 @@
+id: ai-design
+track: aiinfra
+stage: 3
+order: 130
+title: AI 平台系統設計
+subtitle: 設計一個能被代班的平台
+summary: 把可靠性、容量、品質與成本放在同一份設計決策裡。
+outcomes:
+  - 分開訓練與線上推論的目標
+  - 驗證高優先工作湧入時的降級策略
+  - 用資料回答容量、成本與損失範圍
+prereqs:
+  - ai-serving
+  - ai-mlops
+  - ai-iac
+roles:
+  - aiinfra
+hours: 2.9
+project: proj-08-platform-design

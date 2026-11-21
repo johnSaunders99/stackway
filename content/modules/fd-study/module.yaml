@@ -1,0 +1,16 @@
+id: fd-study
+track: foundations
+stage: 0
+order: 20
+title: 自學與資料查證
+subtitle: 從今天的一堂課開始
+summary: 用今日計畫選份量，先回想，再用原始資料檢查自己的理解。
+outcomes:
+  - 用今日計畫安排一堂新課與到期複習
+  - 從 2 個來源核對一項建議
+  - 用提示完成練習，再獨立解一次
+prereqs: []
+roles:
+  - fullstack
+  - aiinfra
+hours: 1.2

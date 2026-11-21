@@ -1,0 +1,17 @@
+id: cr-design
+track: career
+stage: 4
+order: 40
+title: 系統設計面試
+subtitle: 在白板上完成一場設計對話
+summary: 先釐清題意與尺度，再讓面試官沿著最重要的風險追問。
+outcomes:
+  - 以 2 個問題界定範圍
+  - 比較加副本與改變資料存取方式
+  - 列出最關鍵的一個取捨
+prereqs:
+  - fd-design
+roles:
+  - fullstack
+  - aiinfra
+hours: 2.6

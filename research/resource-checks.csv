@@ -1,0 +1,281 @@
+url,resource_title,lang,checked,access,http_status
+https://12factor.net/config,Twelve-Factor App：設定與部署,en,2026-11-20,GET; readable page; heading matched: The Twelve-Factor App,200
+https://caddyserver.com/docs/quick-starts/reverse-proxy,Caddy：反向代理入門,en,2026-11-20,GET; readable page; heading matched: Reverse proxy quick-start,200
+https://career.ucsd.edu/resources/guides/resume.html,UC San Diego Career Center：履歷指南,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://careers.deliveroo.co.uk/our-interview-guide-backend-engineering/,Interview guide for backend engineers - Deliveroo Careers,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://careers.microsoft.com/v2/global/en/hiring-tips/technical-interviewing,Technical interviewing | Microsoft Careers,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://careers.usc.edu/channels/prepare-for-an-interview/,USC Career Center：面試準備,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html,Authorization - OWASP Cheat Sheet Series,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html,OWASP：檔案上傳,en,2026-11-20,GET; readable page; heading matched: File Upload Cheat Sheet &para;,200
+https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html,OWASP：密碼儲存,en,2026-11-20,GET; readable page; heading matched: Password Storage Cheat Sheet &para;,200
+https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html,Session Management - OWASP Cheat Sheet Series,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://code.visualstudio.com/docs/editing/codebasics,VS Code：Basic editing,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://code.visualstudio.com/docs/python/debugging,VS Code：Python 除錯,en,2026-11-20,GET; readable page; heading matched: Python debugging in VS Code,200
+https://code.visualstudio.com/docs/setup/windows,VS Code：Windows 安裝方式,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://cor.inquirygroup.org/curriculum/lessons/intro-to-lateral-reading/,Civic Online Reasoning：跨站查證,en,2026-11-20,GET; readable page; title matched: Intro to Lateral Reading | COR,200
+https://cses.fi/problemset/,CSES：演算法免費題單,en,2026-11-20,GET; readable page; heading matched: CSES Problem Set,200
+https://cses.fi/problemset/task/1094,CSES：遞增陣列,en,2026-11-20,GET; readable page; heading matched: Increasing Array,200
+https://cses.fi/problemset/task/1629,CSES：不重疊場次,en,2026-11-20,GET; readable page; heading matched: Movie Festival,200
+https://cses.fi/problemset/task/1638,CSES：網格路徑,en,2026-11-20,GET; readable page; heading matched: Grid Paths I,200
+https://cses.fi/problemset/task/1679,CSES：課程排序,en,2026-11-20,GET; readable page; heading matched: Course Schedule,200
+https://d2l.ai/chapter_attention-mechanisms-and-transformers/self-attention-and-positional-encoding.html,動手學深度學習：自注意力與位置編碼,en,2026-11-20,GET; readable page; heading matched: 11.6. Self-Attention and Positional Encoding ¶ Colab [pytorch] Open the notebook in Colab Colab [mxnet] Open the notebook in Colab Colab [jax] Open the notebook in Colab Colab,200
+https://d2l.ai/chapter_attention-mechanisms-and-transformers/transformer.html,動手學深度學習：Transformer 架構,en,2026-11-20,GET; readable page; heading matched: 11.7. The Transformer Architecture ¶ Colab [pytorch] Open the notebook in Colab Colab [mxnet] Open the notebook in Colab Colab [jax] Open the notebook in Colab Colab [tensorfl,200
+https://d2l.ai/chapter_preliminaries/linear-algebra.html,2.3. Linear Algebra — Dive into Deep Learning 1.0.3 documentation,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://designsystem.digital.gov/components/typography/,USWDS：字體與字級,en,2026-11-20,GET; readable page; heading matched: Typography,200
+https://developer.hashicorp.com/terraform/language,Overview - Configuration Language | Terraform | HashiCorp Developer,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://developer.mozilla.org/en-US/docs/Glossary/UDP,MDN：UDP 資料報,en,2026-11-20,GET; readable page; heading matched: UDP (User Datagram Protocol),200
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core,Core learning modules - Learn web development | MDN,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout,CSS layout - Learn web development | MDN,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox,MDN：彈性盒排版,en,2026-11-20,GET; readable page; heading matched: Flexbox,200
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Grids,MDN：網格排版,en,2026-11-20,GET; readable page; heading matched: CSS grid layout,200
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Media_queries,MDN：媒體查詢,en,2026-11-20,GET; readable page; heading matched: Media query fundamentals,200
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting,Dynamic scripting with JavaScript - Learn web development | MDN,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units,MDN：CSS 值與單位,en,2026-11-20,GET; readable page; heading matched: CSS values and units,200
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Dealing_with_files,MDN：檔案與資料夾的安排,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works,How the web works - Learn web development | MDN,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work,How does the Internet work? - Learn web development | MDN,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://developer.mozilla.org/en-US/docs/Web/API/AbortController,MDN：AbortController,en,2026-11-20,GET; readable page; heading matched: AbortController,200
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch,Using the Fetch API - Web APIs | MDN,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API,MDN：WebSocket API,en,2026-11-20,GET; readable page; heading matched: WebSocket API (WebSockets),200
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API,Web Storage API - Web APIs | MDN,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascade/Introduction,MDN：CSS 階層規則,en,2026-11-20,GET; readable page; heading matched: Introduction to the CSS cascade,200
+https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascading_variables/Using_custom_properties,MDN：CSS 自訂屬性,en,2026-11-20,GET; readable page; heading matched: Using CSS custom properties (variables),200
+https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Selectors,MDN：CSS 選擇器,en,2026-11-20,GET; readable page; heading matched: CSS selectors,200
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/position,MDN：position 屬性,en,2026-11-20,GET; readable page; heading matched: position CSS property,200
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS,MDN：跨來源資源共享,en,2026-11-20,GET; readable page; heading matched: Cross-Origin Resource Sharing (CORS),200
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies,MDN：HTTP Cookie,en,2026-11-20,GET; readable page; heading matched: Using HTTP cookies,200
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Evolution_of_HTTP,MDN：HTTP 的演進,en,2026-11-20,GET; readable page; heading matched: Evolution of HTTP,200
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview,Overview of HTTP - HTTP | MDN,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Proxy_servers_and_tunneling,MDN：代理伺服器,en,2026-11-20,GET; readable page; heading matched: Proxy servers and tunneling,200
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/429,MDN：429 與重試提示,en,2026-11-20,GET; readable page; heading matched: 429 Too Many Requests,200
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop,MDN：JavaScript 執行模型,en,2026-11-20,GET; readable page; heading matched: JavaScript execution model,200
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide,JavaScript Guide - JavaScript | MDN,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions,MDN：JavaScript 函式,en,2026-11-20,GET; readable page; heading matched: Functions,200
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes,MDN：使用類別,en,2026-11-20,GET; readable page; heading matched: Using classes,200
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises,MDN：使用 Promise,en,2026-11-20,GET; readable page; heading matched: Using promises,200
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function,MDN：async 函式,en,2026-11-20,GET; readable page; heading matched: async function,200
+https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Transport_Layer_Security,Transport Layer Security (TLS) - Security | MDN,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall,"Classification: Accuracy, recall, precision, and related metrics  |  Machine Learning  |  Google for Developers",en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://developers.google.com/machine-learning/guides/rules-of-ml?hl=en,Rules of Machine Learning:  |  Google for Developers,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://developers.google.com/tech-writing/one,Technical Writing One introduction  |  Google for Developers,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html,AWS：EC2 基本概念,en,2026-11-20,GET; readable page; heading matched: What is Amazon EC2?,200
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html,AWS：RDS 基本概念,en,2026-11-20,GET; readable page; heading matched: What is Amazon Relational Database Service (Amazon RDS)?,200
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html,AWS：S3 基本概念,en,2026-11-20,GET; readable page; heading matched: What is Amazon S3?,200
+https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html,AWS：IAM 基本概念,en,2026-11-20,GET; readable page; heading matched: What is IAM?,200
+https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html,AWS：預算與通知,en,2026-11-20,GET; readable page; heading matched: Managing your costs with AWS Budgets,200
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html,AWS：VPC 安全群組,en,2026-11-20,GET; readable page; heading matched: Control traffic to your AWS resources using security groups,200
+https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html,AWS：VPC 基本概念,en,2026-11-20,GET; readable page; heading matched: What is Amazon VPC?,200
+https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html,AWS Well-Architected Framework - AWS Well-Architected Framework,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.bullmq.io/guide/jobs,BullMQ：工作與佇列,en,2026-11-20,GET; readable page; heading matched: Jobs,200
+https://docs.docker.com/compose/gettingstarted/,Docker Compose Quickstart | Docker Docs,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.docker.com/desktop/setup/install/windows-install/,Docker：Windows 版 Desktop 安裝,en,2026-11-20,GET; readable page; heading matched: Install Docker Desktop on Windows,200
+https://docs.docker.com/engine/network/,Docker：容器網路,en,2026-11-20,GET; readable page; heading matched: Networking overview,200
+https://docs.docker.com/get-started/tutorials/run-an-app/,Docker Learn：容器入門,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.github.com/en/actions/get-started/understand-github-actions,Understanding GitHub Actions - GitHub Docs,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh,GitHub：以 SSH 連線,en,2026-11-20,GET; readable page; heading matched: Connecting to GitHub with SSH,200
+https://docs.github.com/en/copilot/responsible-use/chat-in-your-ide,GitHub：Copilot Chat 的能力與限制,en,2026-11-20,GET; readable page; heading matched: Application card: GitHub Copilot Chat,200
+https://docs.github.com/en/get-started/using-github/github-flow,GitHub Docs：GitHub flow,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes,About the repository README file - GitHub Docs,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.npmjs.com/cli/v11/configuring-npm/package-json,npm：package.json 欄位,en,2026-11-20,GET; readable page; heading matched: package.json,200
+https://docs.npmjs.com/cli/v11/configuring-npm/package-lock-json,npm：package-lock.json,en,2026-11-20,GET; readable page; heading matched: package-lock.json,200
+https://docs.nvidia.com/cuda/cuda-programming-guide/,CUDA Programming Guide — CUDA Programming Guide,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.nvidia.com/cuda/cuda-programming-guide/01-introduction/programming-model.html,NVIDIA：CUDA 程式設計模型,en,2026-11-20,GET; readable page; heading matched: 1.2. Programming Model,200
+https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/gpu-sharing.html,NVIDIA GPU Operator：時間切片,en,2026-11-20,GET; readable page; heading matched: Time-Slicing GPUs in Kubernetes,200
+https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/overview.html,About the NVIDIA GPU Operator — NVIDIA GPU Operator,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.nvidia.com/datacenter/cloud-native/gpu-telemetry/latest/dcgm-exporter.html,NVIDIA：DCGM Exporter,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.nvidia.com/datacenter/tesla/mig-user-guide/,NVIDIA：MIG 使用指南,en,2026-11-20,GET; readable page; heading matched: MIG User Guide,200
+https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/overview.html,Overview of NCCL — NCCL,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/usage/collectives.html,NCCL：集合通訊操作,en,2026-11-20,GET; readable page; heading matched: Collective Operations,200
+https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/user_guide/model_configuration.html,Model Configuration — NVIDIA Triton Inference Server,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.nvidia.com/nim/benchmarking/llm/latest/metrics.html,NVIDIA：大模型推論量測指標,en,2026-11-20,GET; readable page; heading matched: Metrics,200
+https://docs.nvidia.com/nsight-compute/ProfilingGuide/index.html,Nsight Compute：效能剖析與 Roofline,en,2026-11-20,GET; readable page; heading matched: 2. Profiling Guide,200
+https://docs.nvidia.com/nsight-systems/UserGuide/index.html,Nsight Systems：時間軸與追蹤,en,2026-11-20,GET; readable page; heading matched: User Guide,200
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html,Oracle Java Tutorials：Language Basics,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.pytest.org/en/stable/how-to/assert.html,How to write and report assertions in tests - pytest documentation,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.pytest.org/en/stable/how-to/fixtures.html,pytest：測試用 fixture,en,2026-11-20,GET; readable page; heading matched: How to use fixtures,200
+https://docs.python.org/3/library/bisect.html,bisect — Array bisection algorithm — Python 3.15.2 documentation,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.python.org/3/library/heapq.html,Python：heapq 優先佇列,en,2026-11-20,GET; readable page; heading matched: heapq — Heap queue algorithm,200
+https://docs.python.org/3/using/windows.html,4. Using Python on Windows — Python 3.15.2 documentation,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.python.org/zh-tw/3/howto/sorting.html,Python：排序技法,zh-Hant,2026-11-20,GET; readable page; heading matched: 排序技法,200
+https://docs.python.org/zh-tw/3/library/asyncio-task.html,協程與任務（Python 文件）,zh-Hant,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.python.org/zh-tw/3/library/dataclasses.html,Python：dataclasses,zh-Hant,2026-11-20,GET; readable page; heading matched: dataclasses --- Data Classes,200
+https://docs.python.org/zh-tw/3/library/functions.html,Python：內建函式,zh-Hant,2026-11-20,GET; readable page; heading matched: Built-in functions,200
+https://docs.python.org/zh-tw/3/library/stdtypes.html,Python：內建型別與字串方法,zh-Hant,2026-11-20,GET; readable page; heading matched: 內建型別,200
+https://docs.python.org/zh-tw/3/tutorial/,Python 教學（Python 文件）,zh-Hant,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.python.org/zh-tw/3/tutorial/classes.html,Python 教學：類別與迭代器,zh-Hant,2026-11-20,GET; readable page; heading matched: 9. Class（類別）,200
+https://docs.python.org/zh-tw/3/tutorial/controlflow.html,Python 教學：流程控制與參數,zh-Hant,2026-11-20,GET; readable page; heading matched: 4. 深入了解流程控制,200
+https://docs.python.org/zh-tw/3/tutorial/datastructures.html,5. 資料結構（Python 文件）,zh-Hant,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.python.org/zh-tw/3/tutorial/errors.html,Python 教學：錯誤與例外,zh-Hant,2026-11-20,GET; readable page; heading matched: 8. 錯誤和例外,200
+https://docs.python.org/zh-tw/3/tutorial/inputoutput.html,7. Input and output（Python 文件）,zh-Hant,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.python.org/zh-tw/3/tutorial/introduction.html,Python 教學：數值、文字與串列,zh-Hant,2026-11-20,GET; readable page; heading matched: 3. 一個非正式的 Python 簡介,200
+https://docs.python.org/zh-tw/3/tutorial/modules.html,Python 教學：模組,zh-Hant,2026-11-20,GET; readable page; heading matched: 6. 模組 (Module),200
+https://docs.python.org/zh-tw/3/tutorial/stdlib.html,Python 教學：標準函式庫導覽,zh-Hant,2026-11-20,GET; readable page; heading matched: 10. Python 標準函式庫概覽,200
+https://docs.python.org/zh-tw/3/tutorial/venv.html,12. 虛擬環境與套件（Python 文件）,zh-Hant,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.pytorch.org/docs/2.15/elastic/run.html,PyTorch：torchrun 啟動器,en,2026-11-20,GET; readable page; heading matched: torchrun (Elastic Launch),200
+https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html,PyTorch：自動微分,en,2026-11-20,GET; readable page; heading matched: Automatic Differentiation with torch.autograd,200
+https://docs.pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html,PyTorch：建立神經網路,en,2026-11-20,GET; readable page; heading matched: Build the Neural Network,200
+https://docs.pytorch.org/tutorials/beginner/basics/data_tutorial.html,PyTorch：資料集與批次載入,en,2026-11-20,GET; readable page; heading matched: Datasets & DataLoaders,200
+https://docs.pytorch.org/tutorials/beginner/basics/intro.html,Learn the Basics — PyTorch Tutorials,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.pytorch.org/tutorials/beginner/basics/optimization_tutorial.html,PyTorch：模型參數最佳化,en,2026-11-20,GET; readable page; heading matched: Optimizing Model Parameters,200
+https://docs.pytorch.org/tutorials/beginner/saving_loading_models.html,Saving and Loading Models — PyTorch Tutorials,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.pytorch.org/tutorials/intermediate/FSDP_tutorial.html,Getting Started with Fully Sharded Data Parallel (FSDP2) — PyTorch Tutorials,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.pytorch.org/tutorials/intermediate/TP_tutorial.html,PyTorch：張量平行,en,2026-11-20,GET; readable page; heading matched: Large Scale Transformer model training with Tensor Parallel (TP),200
+https://docs.pytorch.org/tutorials/intermediate/ddp_tutorial.html,Getting Started with Distributed Data Parallel — PyTorch Tutorials,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.pytorch.org/tutorials/intermediate/pipelining_tutorial.html,PyTorch：管線平行,en,2026-11-20,GET; readable page; heading matched: Introduction to Distributed Pipeline Parallelism,200
+https://docs.pytorch.org/tutorials/recipes/recipes/amp_recipe.html,PyTorch：混合精度入門,en,2026-11-20,GET; readable page; heading matched: Automatic Mixed Precision,200
+https://docs.pytorch.org/tutorials/recipes/recipes/profiler_recipe.html,PyTorch Profiler — PyTorch Tutorials,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.ray.io/en/latest/ray-overview/index.html,Overview — Ray 2.60.0,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.sglang.ai/,Welcome to SGLang - SGLang Documentation,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.spring.io/spring-boot/reference/testing/spring-boot-applications.html,Testing Spring Boot Applications :: Spring Boot,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.spring.io/spring-framework/reference/testing/mockmvc.html,MockMvc :: Spring Framework,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.vllm.ai/en/stable/,vLLM,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://docs.vllm.ai/en/stable/cli/bench/serve/,vLLM：服務基準測試參數,en,2026-11-20,GET; readable page; heading matched: vllm bench serve,200
+https://docs.vllm.ai/en/stable/design/paged_attention/,vLLM：分頁注意力設計,en,2026-11-20,GET; readable page; heading matched: Paged Attention,200
+https://docs.vllm.ai/en/stable/features/quantization/,vLLM：量化格式與支援條件,en,2026-11-20,GET; readable page; heading matched: Quantization,200
+https://docs.vllm.ai/en/stable/features/speculative_decoding/,vLLM：推測解碼,en,2026-11-20,GET; readable page; heading matched: Speculative Decoding,200
+https://docs.vllm.ai/en/stable/getting_started/quickstart/,vLLM：快速入門,en,2026-11-20,GET; readable page; heading matched: Quickstart,200
+https://documentation.ubuntu.com/server/how-to/security/openssh-server/,OpenSSH server - Ubuntu Server documentation,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://documentation.ubuntu.com/server/how-to/software/package-management/,Ubuntu：套件管理,en,2026-11-20,GET; readable page; heading matched: Install and manage packages,200
+https://expressjs.com/en/guide/routing.html,Routing · Express.js,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://expressjs.com/en/guide/using-middleware.html,Express：使用中介軟體,en,2026-11-20,GET; readable page; heading matched: Using middleware,200
+https://expressjs.com/en/starter/hello-world.html,Express：第一個伺服器,en,2026-11-20,GET; readable page; heading matched: Hello world example,200
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup,Pro Git：初次設定,en,2026-11-20,GET; readable page; heading matched: 1.6 Getting Started - First-Time Git Setup,200
+https://git-scm.com/book/zh-tw/v2,Pro Git（繁體中文版）,zh-Hant,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://git-scm.com/docs/git-clone,Git：clone 指令,en,2026-11-20,GET; readable page; title matched: Git - git-clone Documentation,200
+https://git-scm.com/docs/git-diff,Git：diff 指令,en,2026-11-20,GET; readable page; title matched: Git - git-diff Documentation,200
+https://git-scm.com/docs/git-fetch,Git：fetch 指令,en,2026-11-20,GET; readable page; title matched: Git - git-fetch Documentation,200
+https://git-scm.com/docs/git-init,Git：init 指令,en,2026-11-20,GET; readable page; title matched: Git - git-init Documentation,200
+https://git-scm.com/docs/git-log,Git：log 指令,en,2026-11-20,GET; readable page; title matched: Git - git-log Documentation,200
+https://git-scm.com/docs/git-push,Git：push 指令,en,2026-11-20,GET; readable page; title matched: Git - git-push Documentation,200
+https://git-scm.com/docs/git-rebase,Git：rebase 指令,en,2026-11-20,GET; readable page; title matched: Git - git-rebase Documentation,200
+https://git-scm.com/docs/git-reflog,Git：reflog 指令,en,2026-11-20,GET; readable page; title matched: Git - git-reflog Documentation,200
+https://git-scm.com/docs/git-reset,Git：reset 指令,en,2026-11-20,GET; readable page; title matched: Git - git-reset Documentation,200
+https://git-scm.com/docs/git-restore,Git：restore 指令,en,2026-11-20,GET; readable page; title matched: Git - git-restore Documentation,200
+https://git-scm.com/docs/git-revert,Git：revert 指令,en,2026-11-20,GET; readable page; title matched: Git - git-revert Documentation,200
+https://git-scm.com/docs/gitignore,Git：忽略規則,en,2026-11-20,GET; readable page; title matched: Git - gitignore Documentation,200
+https://git-scm.com/install/windows,Git：Windows 安裝方式,en,2026-11-20,GET; readable page; heading matched: Install,200
+https://go.dev/blog/context,Go Concurrency Patterns: Context - The Go Programming Language,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://go.dev/blog/json,Go：JSON 編解碼,en,2026-11-20,GET; readable page; heading matched: The Go Blog,200
+https://go.dev/doc/tutorial/add-a-test,Go 教學：建立測試,en,2026-11-20,GET; readable page; heading matched: Add a test,200
+https://go.dev/doc/tutorial/create-module,Go：建立模組,en,2026-11-20,GET; readable page; heading matched: Tutorial: Create a Go module,200
+https://go.dev/doc/tutorial/getting-started,Tutorial: Get started with Go - The Go Programming Language,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://go.dev/tour/methods/19,Go 導覽：錯誤,en,2026-11-20,GET; readable page; title matched: A Tour of Go,200
+https://go.dev/tour/moretypes/2,Go 導覽：結構,en,2026-11-20,GET; readable page; title matched: A Tour of Go,200
+https://go.dev/wiki/TableDrivenTests,Go：表格驅動測試,en,2026-11-20,GET; readable page; heading matched: Go Wiki: TableDrivenTests,200
+https://helm.sh/docs/intro/using_helm/,Helm：使用套件與發行版,en,2026-11-20,GET; readable page; heading matched: Using Helm,200
+https://huggingface.co/docs/transformers/generation_strategies,Hugging Face：文字生成策略,en,2026-11-20,GET; readable page; heading matched: Transformers,200
+https://huggingface.co/docs/transformers/main/en/kv_cache,Cache strategies · Hugging Face,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://huggingface.co/docs/transformers/main/en/llm_optims,Optimizing inference · Hugging Face,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://huggingface.co/docs/transformers/main/en/llm_tutorial_optimization,Optimizing LLMs for Speed and Memory · Hugging Face,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://huggingface.co/learn/llm-course/chapter2/2,Behind the pipeline · Hugging Face,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://huggingface.co/learn/llm-course/chapter2/4,Tokenizers · Hugging Face,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://kubernetes.io/docs/concepts/,Concepts | Kubernetes,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://kubernetes.io/docs/concepts/configuration/configmap/,Kubernetes：ConfigMap,en,2026-11-20,GET; readable page; heading matched: ConfigMaps,200
+https://kubernetes.io/docs/concepts/configuration/liveness-readiness-startup-probes/,"Liveness, Readiness, and Startup Probes | Kubernetes",en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://kubernetes.io/docs/concepts/configuration/secret/,Kubernetes：Secret,en,2026-11-20,GET; readable page; heading matched: Secrets,200
+https://kubernetes.io/docs/concepts/extend-kubernetes/operator/,Kubernetes：Operator 模式,en,2026-11-20,GET; readable page; heading matched: Operator pattern,200
+https://kubernetes.io/docs/concepts/services-networking/ingress/,Kubernetes：Ingress,en,2026-11-20,GET; readable page; heading matched: Ingress,200
+https://kubernetes.io/docs/concepts/storage/persistent-volumes/,Kubernetes：持久卷,en,2026-11-20,GET; readable page; heading matched: Persistent Volumes,200
+https://kubernetes.io/docs/concepts/workloads/controllers/deployment/,Kubernetes：Deployment,en,2026-11-20,GET; readable page; heading matched: Deployments,200
+https://kubernetes.io/docs/concepts/workloads/pods/,Kubernetes：Pod,en,2026-11-20,GET; readable page; heading matched: Pods,200
+https://kubernetes.io/docs/tasks/debug/debug-application/debug-pods/,Debug Pods | Kubernetes,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://kubernetes.io/docs/tasks/manage-gpus/scheduling-gpus/,Schedule GPUs | Kubernetes,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://kueue.sigs.k8s.io/docs/concepts/,Concepts | Kueue,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://learn.microsoft.com/en-us/azure/architecture/patterns/cache-aside,Cache-Aside Pattern - Azure Architecture Center | Microsoft Learn,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://learn.microsoft.com/en-us/azure/architecture/patterns/priority-queue,Priority Queue Pattern - Azure Architecture Center | Microsoft Learn,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://learn.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling,Queue-Based Load Leveling Pattern - Azure Architecture Center | Microsoft Learn,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://learn.microsoft.com/en-us/azure/architecture/patterns/retry,Retry pattern - Azure Architecture Center | Microsoft Learn,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview,RAG and Generative AI - Foundry IQ (Azure AI Search) | Microsoft Learn,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description,Microsoft：資料庫正規化,en,2026-11-20,GET; readable page; heading matched: Description of the database normalization basics,200
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/copy-item,Copy-Item (Microsoft.PowerShell.Management) - PowerShell | Microsoft Learn,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-childitem,Microsoft Learn：Get-ChildItem,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/04-pipelines,One-liners and the pipeline - PowerShell 101 | Microsoft Learn,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://learn.microsoft.com/en-us/powershell/scripting/samples/managing-current-location?view=powershell-7.3,Microsoft Learn：在 PowerShell 確認目前位置,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh-overview,OpenSSH for Windows overview | Microsoft Learn,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://learn.microsoft.com/en-us/windows/terminal/,Microsoft Learn：Windows Terminal 概觀,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://learn.microsoft.com/en-us/windows/win32/memory/about-memory-management,About Memory Management - Win32 apps | Microsoft Learn,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads,About Processes and Threads - Win32 apps | Microsoft Learn,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://learn.microsoft.com/en-us/windows/wsl/basic-commands,Basic commands for WSL | Microsoft Learn,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://learn.microsoft.com/en-us/windows/wsl/install,Microsoft：安裝 WSL,en,2026-11-20,GET; readable page; heading matched: How to install Linux on Windows with WSL,200
+https://man7.org/linux/man-pages/man5/crontab.5.html,Linux 手冊：crontab 格式,en,2026-11-20,GET; readable page; heading matched: crontab(5) — Linux manual page,200
+https://man7.org/linux/man-pages/man7/hier.7.html,Linux 手冊：檔案系統階層,en,2026-11-20,GET; readable page; heading matched: hier(7) — Linux manual page,200
+https://man7.org/linux/man-pages/man7/signal.7.html,Linux 手冊：行程訊號,en,2026-11-20,GET; readable page; heading matched: signal(7) — Linux manual page,200
+https://missing.csail.mit.edu/2020/course-shell/,MIT Missing Semester：The Shell,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://mlflow.org/docs/latest/ml/,MLflow：ML 實驗、評估與版本管理,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://nebius.com/engineering-interviews,Nebius：Engineering interviews,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://nextjs.org/docs/app/getting-started,Next.js App Router：Getting Started,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://nextjs.org/docs/app/getting-started/server-and-client-components,Server and Client Components,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://nodejs.org/api/http.html,Node.js：http 模組,en,2026-11-20,GET; readable page; heading matched: Node.js v26.13.1 documentation,200
+https://nodejs.org/en/download,Node.js：官方下載與 LTS 選擇,en,2026-11-20,GET; readable page; heading matched: Download Node.js®,200
+https://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop,Don't Block the Event Loop (or the Worker Pool) | Node.js Learn,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://nodejs.org/en/learn/command-line/how-to-read-environment-variables-from-nodejs,Node.js：讀取環境變數,en,2026-11-20,GET; readable page; heading matched: How to read environment variables from Node.js,200
+https://nodejs.org/en/learn/getting-started/introduction-to-nodejs,Node.js：執行環境簡介,en,2026-11-20,GET; readable page; heading matched: Introduction to Node.js,200
+https://nvidia.github.io/TensorRT-LLM/,Welcome to TensorRT LLM’s Documentation! — TensorRT LLM,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/,Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://opendatastructures.org/ods-python/,Open Data Structures（虛擬碼版）,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://openid.net/developers/how-connect-works/,OpenID Foundation：OIDC 流程,en,2026-11-20,GET; readable page; title matched: How OpenID Connect Works - OpenID Foundation,200
+https://opentelemetry.io/docs/concepts/signals/,Signals | OpenTelemetry,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://opentelemetry.io/docs/concepts/signals/logs/,OpenTelemetry：紀錄與關聯,en,2026-11-20,GET; readable page; heading matched: Logs,200
+https://packaging.python.org/en/latest/tutorials/installing-packages/,Installing Packages - Python Packaging User Guide,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://packaging.python.org/en/latest/tutorials/packaging-projects/,PyPA：封裝 Python 專案,en,2026-11-20,GET; readable page; heading matched: Packaging Python Projects,200
+https://pkg.go.dev/flag,Go 標準函式庫：flag,en,2026-11-20,GET; readable page; heading matched: flag,200
+https://playwright.dev/docs/best-practices,Best Practices | Playwright,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://prometheus.io/docs/practices/histograms/,Histograms and summaries | Prometheus,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://react.dev/learn,React：Quick Start,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://react.dev/learn/managing-state,Managing State – React,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://react.dev/learn/passing-data-deeply-with-context,React：以 context 傳遞資料,en,2026-11-20,GET; readable page; heading matched: Passing Data Deeply with Context,200
+https://react.dev/learn/passing-props-to-a-component,React：傳遞 props,en,2026-11-20,GET; readable page; heading matched: Passing Props to a Component,200
+https://react.dev/learn/rendering-lists,Rendering Lists – React,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://react.dev/learn/responding-to-events,React：回應事件,en,2026-11-20,GET; readable page; heading matched: Responding to Events,200
+https://react.dev/learn/reusing-logic-with-custom-hooks,React：重用自訂 Hook,en,2026-11-20,GET; readable page; heading matched: Reusing Logic with Custom Hooks,200
+https://react.dev/learn/synchronizing-with-effects,Synchronizing with Effects – React,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://react.dev/learn/typescript,React：使用 TypeScript,en,2026-11-20,GET; readable page; heading matched: Using TypeScript,200
+https://react.dev/learn/writing-markup-with-jsx,React：以 JSX 撰寫標記,en,2026-11-20,GET; readable page; heading matched: Writing Markup with JSX,200
+https://react.dev/reference/react/Profiler,React：Profiler 元件,en,2026-11-20,GET; readable page; heading matched: <Profiler>,200
+https://reactrouter.com/start/declarative/routing,Routing | React Router,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://redis.io/docs/latest/commands/expire/,Redis：EXPIRE 到期設定,en,2026-11-20,GET; readable page; heading matched: EXPIRE,200
+https://redis.io/docs/latest/develop/data-types/,Redis：資料型別,en,2026-11-20,GET; readable page; heading matched: Redis data types,200
+https://roadmap.sh/backend,Backend Developer Roadmap: What is Backend Development,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://roadmap.sh/mlops,MLOps Roadmap,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://scikit-learn.org/stable/common_pitfalls.html,12. Common pitfalls and recommended practices — scikit-learn 1.9.1 documentation,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://slurm.schedmd.com/sbatch.html,Slurm Workload Manager - sbatch,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://spring.io/guides/gs/rest-service,Spring：Building a RESTful Web Service,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://sre.google/sre-book/table-of-contents/,Google：《Site Reliability Engineering》,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://sre.google/workbook/canarying-releases/,Google SRE - Canary Release: Deployment Safety and Efficiency,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://sre.google/workbook/table-of-contents/,Google：《The Site Reliability Workbook》,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://support.microsoft.com/en-us/windows/common-file-name-extensions-in-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01,Microsoft：Windows 常見副檔名,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows,Microsoft：Windows 檔案總管,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://tanstack.com/query/latest/docs/framework/react/overview,TanStack Query：React 查詢概覽,en,2026-11-20,GET; readable page; heading matched: Overview,200
+https://testing-library.com/docs/guiding-principles/,Guiding Principles | Testing Library,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://testing-library.com/docs/react-testing-library/example-intro/,Testing Library：React 元件測試範例,en,2026-11-20,GET; readable page; heading matched: Example,200
+https://triton-lang.org/main/getting-started/tutorials/01-vector-add.html,Triton 語言：向量加法,en,2026-11-20,GET; readable page; heading matched: Vector Addition,200
+https://ubuntu.com/tutorials/command-line-for-beginners,The Linux command line for beginners | Ubuntu,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://usaco.guide/,USACO Guide：分級主題與免費題單,en,2026-11-20,GET; readable page; heading matched: USACO Guide,200
+https://usaco.guide/gold/knapsack,USACO Guide：背包動態規劃,en,2026-11-20,GET; readable page; title matched: Knapsack DP · USACO Guide,200
+https://vuejs.org/guide/essentials/component-basics,Components Basics | Vue.js,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://web.dev/learn/performance,Learn Performance  |  web.dev,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://www.atlassian.com/company/careers/resources/interviewing/engineering,Atlassian Engineering Interview Guide | Atlassian,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://www.deepspeed.ai/tutorials/zero/,DeepSpeed：ZeRO 分片策略,en,2026-11-20,GET; readable page; heading matched: Zero Redundancy Optimizer,200
+https://www.freedesktop.org/software/systemd/man/latest/systemctl.html,systemd：systemctl 指令,en,2026-11-20,GET; readable page; title matched: systemctl,200
+https://www.gnu.org/software/bash/manual/html_node/Environment.html,Bash 手冊：環境變數,en,2026-11-20,GET; readable page; title matched: Environment (Bash Reference Manual),200
+https://www.learningscientists.org/retrieval-practice,Learning Scientists：提取練習,en,2026-11-20,GET; readable page; title matched: Retrieval Practice — The Learning Scientists,200
+https://www.mongodb.com/docs/manual/data-modeling/,MongoDB：資料建模,en,2026-11-20,GET; readable page; heading matched: Data Modeling in MongoDB,200
+https://www.postgresql.org/docs/current/backup.html,PostgreSQL：Chapter 25. Backup and Restore,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://www.postgresql.org/docs/current/ddl.html,PostgreSQL：Chapter 5. Data Definition,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://www.postgresql.org/docs/current/transaction-iso.html,PostgreSQL：13.2. Transaction Isolation,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://www.postgresql.org/docs/current/tutorial.html,PostgreSQL：Part I. Tutorial,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://www.postgresql.org/docs/current/using-explain.html,PostgreSQL：14.1. Using EXPLAIN,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://www.prisma.io/docs/orm/prisma-client/queries/crud,Prisma：讀取資料,en,2026-11-20,GET; readable page; heading matched: Reading data,200
+https://www.prisma.io/docs/orm/prisma-client/queries/query-optimization-performance,Prisma ORM：Query optimization,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://www.prisma.io/docs/orm/prisma-migrate/understanding-prisma-migrate/overview,Prisma：遷移歷史與相依關係,en,2026-11-20,GET; readable page; heading matched: The migration graph,200
+https://www.python.org/downloads/windows/,Python：Windows 版本與安裝程式,en,2026-11-20,GET; readable page; heading matched: Python Releases for Windows,200
+https://www.rfc-editor.org/rfc/rfc7519,IETF：JSON Web Token 規格,en,2026-11-20,GET; readable page; heading matched: RFC 7519 : JSON Web Token (JWT),200
+https://www.typescriptlang.org/docs/handbook/2/everyday-types.html,TypeScript: Documentation - Everyday Types,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://www.typescriptlang.org/docs/handbook/2/generics.html,TypeScript：泛型,en,2026-11-20,GET; readable page; heading matched: Generics,200
+https://www.typescriptlang.org/docs/handbook/2/narrowing.html,TypeScript：型別收窄,en,2026-11-20,GET; readable page; heading matched: Narrowing,200
+https://www.typescriptlang.org/docs/handbook/2/objects.html,TypeScript：物件型別,en,2026-11-20,GET; readable page; heading matched: Object Types,200
+https://www.typescriptlang.org/docs/handbook/tsconfig-json.html,TypeScript：tsconfig.json,en,2026-11-20,GET; readable page; heading matched: What is a tsconfig.json,200
+https://www.typescriptlang.org/docs/handbook/utility-types.html,TypeScript：工具型別,en,2026-11-20,GET; readable page; heading matched: Utility Types,200
+https://www.w3.org/WAI/tips/designing/,W3C：可及的網頁設計,en,2026-11-20,GET; readable page; heading matched: Designing for Web Accessibility,200
+https://www.w3.org/WAI/tutorials/,Tutorials | Web Accessibility Initiative (WAI) | W3C,en,2026-11-20,GET; readable document; title or in-page heading matched,200
+https://www.w3.org/WAI/tutorials/forms/,Forms Tutorial | Web Accessibility Initiative (WAI) | W3C,en,2026-11-20,GET; readable document; title or in-page heading matched,200

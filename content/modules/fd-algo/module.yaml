@@ -1,0 +1,17 @@
+id: fd-algo
+track: foundations
+stage: 1
+order: 90
+title: 資料結構與演算法
+subtitle: 用小題練選資料結構
+summary: 把題意變成例子，再以資料量推估解法是否撐得住。
+outcomes:
+  - 估計輸入翻倍時比較次數的變化
+  - 在空容器上定義合理行為
+  - 用已拜訪集合避免重複走訪
+prereqs:
+  - fd-python-data
+roles:
+  - fullstack
+  - aiinfra
+hours: 6.4

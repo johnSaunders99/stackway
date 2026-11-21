@@ -1,0 +1,18 @@
+id: cr-portfolio
+track: career
+stage: 4
+order: 10
+title: 作品集與技術履歷
+subtitle: 讓陌生人能驗收你的作品
+summary: 把已做完的東西整理成可重跑、可追問、能說明限制的證據。
+outcomes:
+  - 把用途與啟動方法放在 README 開頭
+  - 標示量測範圍而不放大影響
+  - 從乾淨資料開始驗證說明
+prereqs:
+  - fd-git
+  - fd-python-tools
+roles:
+  - fullstack
+  - aiinfra
+hours: 2.6

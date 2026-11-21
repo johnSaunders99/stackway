@@ -1,0 +1,17 @@
+id: ai-iac
+track: aiinfra
+stage: 3
+order: 70
+title: Terraform 與雲端變更
+subtitle: 把雲端環境寫成可審查的變更
+summary: 先在紙上和本機看差異，不把付費資源當成學習門票。
+outcomes:
+  - 解釋 3 者不同步時的後果
+  - 為模擬服務畫出最小存取範圍
+  - 依差異報告判斷要還原或納入設定
+prereqs:
+  - fd-aws
+  - ai-k8s
+roles:
+  - aiinfra
+hours: 2.9

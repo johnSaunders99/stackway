@@ -1,0 +1,18 @@
+id: fd-python-tools
+track: foundations
+stage: 1
+order: 80
+title: Python 開發工具與測試
+subtitle: 把 Python 小工具交給別人跑
+summary: 從單檔腳本走到有輸入契約、隔離環境與失敗測試的套件。
+outcomes:
+  - 建立虛擬環境並辨認直譯器路徑
+  - 為函式的參數與回傳值加註型別
+  - 畫出 2 個等待工作交錯的時間線
+prereqs:
+  - fd-python-oop
+  - fd-git
+roles:
+  - fullstack
+  - aiinfra
+hours: 4.5

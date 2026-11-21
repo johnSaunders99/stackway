@@ -1,0 +1,17 @@
+id: fs-node
+track: fullstack
+stage: 2
+order: 60
+title: Node.js 伺服器入門
+subtitle: 從一個請求看到一筆紀錄
+summary: 從本機 HTTP 回應開始，逐步加入路由、設定與可追蹤的紀錄。
+outcomes:
+  - 用鎖定檔重建套件環境
+  - 從原生 HTTP 走到 Express 路由
+  - 用設定與請求識別碼追蹤一次本機請求
+prereqs:
+  - fs-js
+  - fd-network
+roles:
+  - fullstack
+hours: 3.1

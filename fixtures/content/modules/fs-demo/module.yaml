@@ -1,0 +1,16 @@
+id: fs-demo
+track: fullstack
+stage: 1
+order: 10
+title: 做一頁閱讀筆記
+summary: 用標記與樣式，把一段文字整理成清楚的網頁。
+outcomes:
+  - 安排標題層級
+  - 調整文字顏色
+  - 說明結構與外觀的差異
+prereqs:
+  - fd-demo
+roles:
+  - fullstack
+hours: 1
+project: proj-notebook

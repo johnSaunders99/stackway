@@ -1,0 +1,19 @@
+id: fs-production
+track: fullstack
+stage: 3
+order: 120
+title: 全端部署與維運
+subtitle: 讓作品上線後還能維護
+summary: 不只展示成功畫面，也交出延遲、錯誤與還原的證據。
+outcomes:
+  - 將頁面與參數映射到路由
+  - 以一項變動解釋前後差異
+  - 從 README 完成部署與回復演練
+prereqs:
+  - fs-quality
+  - fs-data
+  - fd-delivery
+roles:
+  - fullstack
+hours: 4.7
+project: proj-03-reserve

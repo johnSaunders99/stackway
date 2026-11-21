@@ -1,0 +1,17 @@
+id: cr-coding
+track: career
+stage: 4
+order: 30
+title: 演算法面試與解題
+subtitle: 把解題過程講給別人聽
+summary: 少背答案，同一題練澄清、基準解、改進與反例。
+outcomes:
+  - 詢問輸入上限與重複值規則
+  - 以未處理節點辨認循環相依
+  - 先交出正確基準解再說明複雜度
+prereqs:
+  - fd-algo
+roles:
+  - fullstack
+  - aiinfra
+hours: 5.7

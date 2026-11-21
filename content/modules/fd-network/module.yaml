@@ -1,0 +1,17 @@
+id: fd-network
+track: foundations
+stage: 1
+order: 100
+title: 網路與 HTTP 基礎
+subtitle: 一個網址如何得到回應
+summary: 把網頁載入拆成能逐段觀察的名稱、連線與請求。
+outcomes:
+  - 分出網址的主機、路徑與查詢
+  - 分辨標頭與回應本文
+  - 辨認 DNS、連線與 HTTP 的不同失敗層
+prereqs:
+  - fd-cli
+roles:
+  - fullstack
+  - aiinfra
+hours: 4.9

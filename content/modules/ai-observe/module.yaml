@@ -1,0 +1,18 @@
+id: ai-observe
+track: aiinfra
+stage: 2
+order: 50
+title: 可觀測性與事件處理
+subtitle: 在使用者報錯以前看見問題
+summary: 把請求、排隊與硬體連在一起，讓告警指出下一個動作。
+outcomes:
+  - 分辨紀錄、指標與追蹤各自回答的問題
+  - 辨認應再觀察哪個流程階段
+  - 分開觀察事實、推測與處置
+prereqs:
+  - ai-k8s
+  - fd-delivery
+roles:
+  - aiinfra
+hours: 2.6
+project: proj-06-platform

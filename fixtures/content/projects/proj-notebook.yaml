@@ -1,0 +1,29 @@
+id: proj-notebook
+track: fullstack
+title: 一頁工程筆記
+summary: 把一次學習的問題、方法與結果做成能離線閱讀的頁面。
+why: 用小作品證明你能整理需求、實作並檢查結果。
+modules:
+  - fd-demo
+  - fs-demo
+level: 2
+hours: 3
+milestones:
+  - id: m1
+    title: 整理素材
+    checks:
+      - 寫下原始問題
+      - 保留一段可執行的範例
+  - id: m2
+    title: 完成網頁
+    checks:
+      - 主標題描述主題
+      - 各段落使用有意義的標題
+  - id: m3
+    title: 交付檢查
+    checks:
+      - 離線開啟成功
+      - 窄螢幕仍可讀
+stretch:
+  - 加入第二則筆記的連結
+showcase: 展示調整前後的筆記，解釋為什麼更容易找到重點。

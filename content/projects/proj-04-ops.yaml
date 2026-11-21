@@ -1,0 +1,30 @@
+id: proj-04-ops
+track: foundations
+title: 04 可交接的服務值班手冊
+summary: 為小型測試服務留下建置、症狀辨識與回復證據。
+why: 這份作品是從後端接到平台或 SRE 的橋：別人可以照你的手冊把服務救回。
+modules:
+  - fd-delivery
+  - fd-design
+level: 2
+hours: 18
+milestones:
+  - id: proj-04-ops-m1
+    title: 定義服務正常的樣子
+    checks:
+      - 有可重複的測試請求
+      - 說清錯誤率的分母
+  - id: proj-04-ops-m2
+    title: 模擬設定錯誤
+    checks:
+      - 僅改隔離測試環境
+      - 留下症狀與版本識別
+  - id: proj-04-ops-m3
+    title: 交班回復
+    checks:
+      - 用已知良好設定回復
+      - 從乾淨的練習環境照手冊重做，核對版本與測試回應；能請到讀者時再交叉檢查
+stretch:
+  - 用定時演練檢查手冊是否過時。
+  - 讀完 AWS 雲端入門後，另附一頁雲端資源、預算提醒與清理清單；可用示意帳單，不需開通付費服務。
+showcase: 交出一次刻意設錯測試設定的時間線，分清第一次誤判、正確線索與回復確認。

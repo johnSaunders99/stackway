@@ -1,0 +1,19 @@
+id: fd-design
+track: foundations
+stage: 3
+order: 180
+title: 系統設計與容量估算
+subtitle: 先算容量，再談系統設計
+summary: 從單一服務推演到佇列與失敗情境，不靠堆技術名稱作答。
+outcomes:
+  - 把流量、延遲與可用性分開記錄
+  - 定義何時拒絕與如何通知呼叫者
+  - 比較 2 個候選方案的成本與失敗方式
+prereqs:
+  - fd-systems
+  - fd-network
+  - fd-sql
+roles:
+  - fullstack
+  - aiinfra
+hours: 2.9

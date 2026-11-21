@@ -1,0 +1,17 @@
+id: fd-cli
+track: foundations
+stage: 0
+order: 30
+title: 命令列與 shell
+subtitle: 用兩種 shell 找路
+summary: 先能預測指令會碰到哪裡，再把重複工作串起來。
+outcomes:
+  - 用 Get-Location 確認起點
+  - 預測改變篩選條件後的筆數
+  - 分辨找不到指令與找不到檔案
+prereqs:
+  - fd-computer
+roles:
+  - fullstack
+  - aiinfra
+hours: 2.1
